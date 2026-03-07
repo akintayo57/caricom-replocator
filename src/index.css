@@ -1,0 +1,80 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --color-ocean-50: #eef6ff;
+  --color-ocean-100: #d9eaff;
+  --color-ocean-200: #bcdaff;
+  --color-ocean-300: #8ec3ff;
+  --color-ocean-400: #59a1ff;
+  --color-ocean-500: #337dff;
+  --color-ocean-600: #1a5cf5;
+  --color-ocean-700: #1347e1;
+  --color-ocean-800: #163ab6;
+  --color-ocean-900: #18348f;
+  --color-ocean-950: #0c1d52;
+
+  --color-tropic-50: #f0fdf4;
+  --color-tropic-100: #dcfce7;
+  --color-tropic-200: #bbf7d0;
+  --color-tropic-300: #86efac;
+  --color-tropic-400: #4ade80;
+  --color-tropic-500: #22c55e;
+  --color-tropic-600: #16a34a;
+  --color-tropic-700: #15803d;
+  --color-tropic-800: #166534;
+  --color-tropic-900: #14532d;
+  --color-tropic-950: #052e16;
+
+  --color-coral-400: #fb923c;
+  --color-coral-500: #f97316;
+  --color-coral-600: #ea580c;
+
+  --color-sand-50: #fefce8;
+  --color-sand-100: #fef9c3;
+  --color-sand-200: #fef08a;
+  --color-sand-400: #facc15;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-ocean-950 antialiased;
+    margin: 0;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.leaflet-container {
+  @apply rounded-xl;
+  font-family: inherit;
+}
+
+@keyframes pulse-island {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1.08);
+    opacity: 1;
+  }
+}
+
+.animate-pulse-island {
+  animation: pulse-island 2s ease-in-out infinite;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.4s ease-out forwards;
+}

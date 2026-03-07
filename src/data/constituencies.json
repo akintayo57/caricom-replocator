@@ -1,0 +1,502 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stgeorge-nw",
+        "name": "St. George North-West",
+        "country": "Grenada",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.775, 12.065],
+          [-61.755, 12.065],
+          [-61.745, 12.055],
+          [-61.745, 12.040],
+          [-61.760, 12.035],
+          [-61.775, 12.040],
+          [-61.780, 12.055],
+          [-61.775, 12.065]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stgeorge-ne",
+        "name": "St. George North-East",
+        "country": "Grenada",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.755, 12.065],
+          [-61.730, 12.060],
+          [-61.720, 12.050],
+          [-61.725, 12.040],
+          [-61.745, 12.040],
+          [-61.745, 12.055],
+          [-61.755, 12.065]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stgeorge-se",
+        "name": "St. George South-East",
+        "country": "Grenada",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.745, 12.040],
+          [-61.725, 12.040],
+          [-61.720, 12.025],
+          [-61.730, 12.010],
+          [-61.750, 12.010],
+          [-61.760, 12.025],
+          [-61.760, 12.035],
+          [-61.745, 12.040]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stgeorge-sw",
+        "name": "St. George South-West",
+        "country": "Grenada",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.790, 12.040],
+          [-61.775, 12.040],
+          [-61.760, 12.035],
+          [-61.760, 12.025],
+          [-61.770, 12.010],
+          [-61.790, 12.010],
+          [-61.800, 12.025],
+          [-61.790, 12.040]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-standrews-nw",
+        "name": "St. Andrew's North-West",
+        "country": "Grenada",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.740, 12.130],
+          [-61.720, 12.130],
+          [-61.710, 12.115],
+          [-61.710, 12.100],
+          [-61.730, 12.095],
+          [-61.745, 12.105],
+          [-61.745, 12.120],
+          [-61.740, 12.130]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-standrews-ne",
+        "name": "St. Andrew's North-East",
+        "country": "Grenada",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.720, 12.130],
+          [-61.695, 12.125],
+          [-61.685, 12.110],
+          [-61.690, 12.095],
+          [-61.710, 12.100],
+          [-61.710, 12.115],
+          [-61.720, 12.130]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-standrews-se",
+        "name": "St. Andrew's South-East",
+        "country": "Grenada",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.710, 12.100],
+          [-61.690, 12.095],
+          [-61.685, 12.080],
+          [-61.695, 12.065],
+          [-61.715, 12.065],
+          [-61.730, 12.075],
+          [-61.730, 12.095],
+          [-61.710, 12.100]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-standrews-sw",
+        "name": "St. Andrew's South-West",
+        "country": "Grenada",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.745, 12.105],
+          [-61.730, 12.095],
+          [-61.730, 12.075],
+          [-61.740, 12.065],
+          [-61.755, 12.065],
+          [-61.760, 12.080],
+          [-61.755, 12.095],
+          [-61.745, 12.105]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stpatrick",
+        "name": "St. Patrick's",
+        "country": "Grenada",
+        "parish": "St. Patrick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.735, 12.230],
+          [-61.710, 12.235],
+          [-61.690, 12.225],
+          [-61.680, 12.205],
+          [-61.685, 12.185],
+          [-61.705, 12.175],
+          [-61.725, 12.180],
+          [-61.740, 12.195],
+          [-61.745, 12.215],
+          [-61.735, 12.230]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stmark",
+        "name": "St. Mark's",
+        "country": "Grenada",
+        "parish": "St. Mark"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.760, 12.185],
+          [-61.740, 12.195],
+          [-61.725, 12.180],
+          [-61.725, 12.160],
+          [-61.740, 12.150],
+          [-61.760, 12.155],
+          [-61.768, 12.170],
+          [-61.760, 12.185]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stjohn",
+        "name": "St. John's",
+        "country": "Grenada",
+        "parish": "St. John"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.768, 12.170],
+          [-61.760, 12.155],
+          [-61.760, 12.135],
+          [-61.770, 12.120],
+          [-61.790, 12.120],
+          [-61.800, 12.140],
+          [-61.795, 12.160],
+          [-61.780, 12.170],
+          [-61.768, 12.170]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stdavid",
+        "name": "St. David's",
+        "country": "Grenada",
+        "parish": "St. David"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.715, 12.065],
+          [-61.695, 12.065],
+          [-61.680, 12.050],
+          [-61.680, 12.030],
+          [-61.695, 12.015],
+          [-61.720, 12.015],
+          [-61.730, 12.030],
+          [-61.730, 12.050],
+          [-61.720, 12.060],
+          [-61.715, 12.065]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-carriacou",
+        "name": "Carriacou & Petite Martinique",
+        "country": "Grenada",
+        "parish": "Carriacou & Petite Martinique"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.490, 12.495],
+          [-61.460, 12.495],
+          [-61.450, 12.480],
+          [-61.450, 12.460],
+          [-61.465, 12.450],
+          [-61.490, 12.450],
+          [-61.500, 12.465],
+          [-61.500, 12.485],
+          [-61.490, 12.495]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-roseau-n",
+        "name": "Roseau North",
+        "country": "Dominica",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.400, 15.310],
+          [-61.385, 15.310],
+          [-61.375, 15.300],
+          [-61.375, 15.290],
+          [-61.385, 15.280],
+          [-61.400, 15.280],
+          [-61.410, 15.290],
+          [-61.410, 15.300],
+          [-61.400, 15.310]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-roseau-s",
+        "name": "Roseau South",
+        "country": "Dominica",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.400, 15.280],
+          [-61.385, 15.280],
+          [-61.375, 15.270],
+          [-61.375, 15.258],
+          [-61.385, 15.248],
+          [-61.400, 15.248],
+          [-61.410, 15.258],
+          [-61.410, 15.270],
+          [-61.400, 15.280]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-roseau-central",
+        "name": "Roseau Central",
+        "country": "Dominica",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.395, 15.308],
+          [-61.378, 15.308],
+          [-61.370, 15.298],
+          [-61.370, 15.282],
+          [-61.378, 15.272],
+          [-61.395, 15.272],
+          [-61.403, 15.282],
+          [-61.403, 15.298],
+          [-61.395, 15.308]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-portsmouth",
+        "name": "Portsmouth",
+        "country": "Dominica",
+        "parish": "St. John"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.480, 15.585],
+          [-61.455, 15.585],
+          [-61.440, 15.570],
+          [-61.440, 15.545],
+          [-61.455, 15.535],
+          [-61.480, 15.535],
+          [-61.495, 15.550],
+          [-61.495, 15.570],
+          [-61.480, 15.585]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-marigot",
+        "name": "Marigot",
+        "country": "Dominica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.395, 15.455],
+          [-61.370, 15.455],
+          [-61.355, 15.440],
+          [-61.355, 15.420],
+          [-61.370, 15.405],
+          [-61.395, 15.405],
+          [-61.410, 15.420],
+          [-61.410, 15.440],
+          [-61.395, 15.455]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-castle-bruce",
+        "name": "Castle Bruce",
+        "country": "Dominica",
+        "parish": "St. David"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.380, 15.430],
+          [-61.355, 15.430],
+          [-61.340, 15.415],
+          [-61.340, 15.395],
+          [-61.355, 15.380],
+          [-61.380, 15.380],
+          [-61.395, 15.395],
+          [-61.395, 15.415],
+          [-61.380, 15.430]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-laPlaine",
+        "name": "La Plaine",
+        "country": "Dominica",
+        "parish": "St. Patrick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.390, 15.370],
+          [-61.365, 15.370],
+          [-61.350, 15.355],
+          [-61.350, 15.335],
+          [-61.365, 15.320],
+          [-61.390, 15.320],
+          [-61.405, 15.335],
+          [-61.405, 15.355],
+          [-61.390, 15.370]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-grandBay",
+        "name": "Grand Bay",
+        "country": "Dominica",
+        "parish": "St. Patrick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.410, 15.290],
+          [-61.385, 15.290],
+          [-61.370, 15.275],
+          [-61.370, 15.250],
+          [-61.385, 15.235],
+          [-61.410, 15.235],
+          [-61.425, 15.250],
+          [-61.425, 15.275],
+          [-61.410, 15.290]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-stJoseph",
+        "name": "St. Joseph",
+        "country": "Dominica",
+        "parish": "St. Joseph"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.440, 15.420],
+          [-61.415, 15.420],
+          [-61.400, 15.405],
+          [-61.400, 15.385],
+          [-61.415, 15.370],
+          [-61.440, 15.370],
+          [-61.455, 15.385],
+          [-61.455, 15.405],
+          [-61.440, 15.420]
+        ]]
+      }
+    }
+  ]
+}
