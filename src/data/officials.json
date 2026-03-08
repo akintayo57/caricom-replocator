@@ -31,7 +31,7 @@
           "label": "Members of Parliament",
           "icon": "Landmark",
           "color": "text-ocean-700",
-          "scope": "constituency",
+          "scope": "local",
           "filterType": "roleMatch",
           "filterValue": ["Member of Parliament"],
           "description": "Constituency representative in national parliament"
@@ -88,7 +88,7 @@
           "label": "Members of Parliament",
           "icon": "Landmark",
           "color": "text-ocean-700",
-          "scope": "constituency",
+          "scope": "local",
           "filterType": "roleMatch",
           "filterValue": ["Member of Parliament"],
           "description": "Constituency representative in national parliament"

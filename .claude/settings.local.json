@@ -16,7 +16,8 @@
       "Bash(lsof -i :5173,:5174,:5175)",
       "Bash(pkill -f \"vite|node\")",
       "Bash(git commit -m \"feat: Implement tabbed representative display by governance level:*)",
-      "Bash(git push origin main)"
+      "Bash(git push origin main)",
+      "Bash(git commit:*)"
     ]
   }
 }
