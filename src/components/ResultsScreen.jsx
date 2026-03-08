@@ -1,7 +1,7 @@
 import { MapPin, Map } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import ResultsMap from './ResultsMap';
-import RepStack from './RepStack';
+import RepStackTabs from './RepStackTabs';
 
 export default function ResultsScreen() {
   const { state } = useApp();
@@ -28,11 +28,15 @@ export default function ResultsScreen() {
 
       <div className="mb-3 animate-fade-in-up">
         <h3 className="text-xs font-bold text-ocean-400 uppercase tracking-widest">
-          Your Rep Stack
+          Your Representatives
         </h3>
       </div>
 
-      <RepStack officials={officials} />
+      <RepStackTabs
+        officials={officials}
+        country={country}
+        constituencyId={constituency?.constituency_id}
+      />
     </div>
   );
 }

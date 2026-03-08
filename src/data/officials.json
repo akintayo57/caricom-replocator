@@ -1,14 +1,35 @@
 {
   "countries": {
     "Grenada": {
-      "center": [12.12, -61.68],
+      "center": [
+        12.12,
+        -61.68
+      ],
       "zoom": 10,
-      "parishes": ["St. George", "St. Andrew", "St. Patrick", "St. Mark", "St. John", "St. David", "Carriacou & Petite Martinique"]
+      "parishes": [
+        "St. George",
+        "St. Andrew",
+        "St. Patrick",
+        "St. Mark",
+        "St. John",
+        "St. David",
+        "Carriacou & Petite Martinique"
+      ]
     },
     "Dominica": {
-      "center": [15.42, -61.37],
+      "center": [
+        15.42,
+        -61.37
+      ],
       "zoom": 10,
-      "parishes": ["St. George", "St. John", "St. Andrew", "St. David", "St. Patrick", "St. Joseph"]
+      "parishes": [
+        "St. George",
+        "St. John",
+        "St. Andrew",
+        "St. David",
+        "St. Patrick",
+        "St. Joseph"
+      ]
     }
   },
   "officials": [
@@ -24,7 +45,9 @@
       "cabinetPosition": "Prime Minister & Minister of Finance",
       "photo": null,
       "phone": "+1-473-440-2255",
-      "email": "pm@gov.gd"
+      "email": "pm@gov.gd",
+      "isHeadOfGovernment": true,
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-002",
@@ -38,7 +61,8 @@
       "cabinetPosition": "Minister of Education",
       "photo": null,
       "phone": "+1-473-440-2300",
-      "email": "education@gov.gd"
+      "email": "education@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-003",
@@ -52,7 +76,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-473-440-2310",
-      "email": "stgeorgese.mp@gov.gd"
+      "email": "stgeorgese.mp@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-004",
@@ -66,7 +91,8 @@
       "cabinetPosition": "Minister of Economic Development",
       "photo": null,
       "phone": "+1-473-440-2320",
-      "email": "stgeorgesw.mp@gov.gd"
+      "email": "stgeorgesw.mp@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-005",
@@ -80,7 +106,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-473-440-2330",
-      "email": "standrewsnw.mp@gov.gd"
+      "email": "standrewsnw.mp@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-006",
@@ -94,7 +121,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-473-440-2340",
-      "email": "standrewsne.mp@gov.gd"
+      "email": "standrewsne.mp@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-007",
@@ -108,7 +136,8 @@
       "cabinetPosition": "Minister of Agriculture",
       "photo": null,
       "phone": "+1-473-440-2350",
-      "email": "agriculture@gov.gd"
+      "email": "agriculture@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-008",
@@ -122,7 +151,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-473-440-2360",
-      "email": "standrewssw.mp@gov.gd"
+      "email": "standrewssw.mp@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-009",
@@ -136,7 +166,8 @@
       "cabinetPosition": "Minister of Foreign Affairs",
       "photo": null,
       "phone": "+1-473-440-2370",
-      "email": "foreign@gov.gd"
+      "email": "foreign@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-010",
@@ -150,7 +181,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-473-440-2380",
-      "email": "stmark.mp@gov.gd"
+      "email": "stmark.mp@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-011",
@@ -164,7 +196,8 @@
       "cabinetPosition": "Minister of Works",
       "photo": null,
       "phone": "+1-473-440-2390",
-      "email": "works@gov.gd"
+      "email": "works@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-012",
@@ -178,7 +211,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-473-440-2400",
-      "email": "stdavid.mp@gov.gd"
+      "email": "stdavid.mp@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-mp-013",
@@ -192,7 +226,8 @@
       "cabinetPosition": "Minister of Carriacou & PM Affairs",
       "photo": null,
       "phone": "+1-473-440-2410",
-      "email": "carriacou@gov.gd"
+      "email": "carriacou@gov.gd",
+      "country": "Grenada"
     },
     {
       "id": "gd-sen-001",
@@ -482,7 +517,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-767-266-3001",
-      "email": "roseaun.mp@dominica.gov.dm"
+      "email": "roseaun.mp@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-002",
@@ -496,7 +532,9 @@
       "cabinetPosition": "Prime Minister & Minister of Finance",
       "photo": null,
       "phone": "+1-767-266-3002",
-      "email": "pm@dominica.gov.dm"
+      "email": "pm@dominica.gov.dm",
+      "isHeadOfGovernment": true,
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-003",
@@ -510,7 +548,8 @@
       "cabinetPosition": "Minister of Education",
       "photo": null,
       "phone": "+1-767-266-3003",
-      "email": "education@dominica.gov.dm"
+      "email": "education@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-004",
@@ -524,7 +563,8 @@
       "cabinetPosition": "Minister of Public Works",
       "photo": null,
       "phone": "+1-767-266-3004",
-      "email": "publicworks@dominica.gov.dm"
+      "email": "publicworks@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-005",
@@ -538,7 +578,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-767-266-3005",
-      "email": "castlebruce.mp@dominica.gov.dm"
+      "email": "castlebruce.mp@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-006",
@@ -552,7 +593,8 @@
       "cabinetPosition": "Minister of Agriculture",
       "photo": null,
       "phone": "+1-767-266-3006",
-      "email": "agriculture@dominica.gov.dm"
+      "email": "agriculture@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-007",
@@ -566,7 +608,8 @@
       "cabinetPosition": "Minister of Tourism",
       "photo": null,
       "phone": "+1-767-266-3007",
-      "email": "tourism@dominica.gov.dm"
+      "email": "tourism@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-008",
@@ -580,7 +623,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-767-266-3008",
-      "email": "laplaine.mp@dominica.gov.dm"
+      "email": "laplaine.mp@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-mp-009",
@@ -594,7 +638,8 @@
       "cabinetPosition": "Minister of Information",
       "photo": null,
       "phone": "+1-767-266-3009",
-      "email": "information@dominica.gov.dm"
+      "email": "information@dominica.gov.dm",
+      "country": "Dominica"
     },
     {
       "id": "dm-sen-001",
@@ -767,6 +812,36 @@
       "cabinetPosition": null,
       "phone": "+1-767-266-5010",
       "email": null
+    },
+    {
+      "id": "gd-hos-001",
+      "name": "Sir Crispin Sorhaindo",
+      "role": "Governor General",
+      "tier": "national",
+      "constituency_id": null,
+      "country": "Grenada",
+      "party": "N/A",
+      "partyFull": "Non-partisan",
+      "type": "appointed",
+      "cabinetPosition": null,
+      "photo": null,
+      "phone": "+1-473-440-3500",
+      "email": "gg@grenada.gov.gd"
+    },
+    {
+      "id": "dm-hos-001",
+      "name": "Sylvanie Burton",
+      "role": "President",
+      "tier": "national",
+      "constituency_id": null,
+      "country": "Dominica",
+      "party": "N/A",
+      "partyFull": "Non-partisan",
+      "type": "appointed",
+      "cabinetPosition": null,
+      "photo": null,
+      "phone": "+1-767-266-3600",
+      "email": "president@dominica.gov.dm"
     }
   ]
 }

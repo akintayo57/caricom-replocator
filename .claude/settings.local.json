@@ -8,7 +8,14 @@
       "Bash(git config user.email \"you@example.com\")",
       "Bash(git config user.name \"CARICOM RepLocator Team\")",
       "Bash(git add -A)",
-      "Bash(git commit -m \"Initial commit: CARICOM RepLocator MVP:*)"
+      "Bash(git commit -m \"Initial commit: CARICOM RepLocator MVP:*)",
+      "Bash(git branch -M main)",
+      "Bash(git remote add origin https://github.com/akintayo57/caricom-replocator.git)",
+      "Bash(git push -u origin main)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/akintayo57/caricom-replocator)",
+      "Bash(lsof -i :5173,:5174,:5175)",
+      "Bash(pkill -f \"vite|node\")",
+      "Bash(git commit -m \"feat: Implement tabbed representative display by governance level:*)"
     ]
   }
 }
