@@ -37,3 +37,36 @@ export function getConstituenciesForParish(parish, country, geojson) {
     )
     .map((f) => f.properties);
 }
+
+export function getCountryHierarchy(country) {
+  return data.countries[country]?.governmentHierarchy || [];
+}
+
+export function applyHierarchyFilter(official, filterConfig, context) {
+  const { filterType, filterValue, scope } = filterConfig;
+  const { country, constituencyId } = context;
+
+  // Check country match
+  if (official.country !== country) return false;
+
+  // Check scope-based constituency filtering
+  if (scope === 'local' && official.constituency_id !== constituencyId) {
+    return false;
+  }
+
+  // Apply type-specific filter
+  switch (filterType) {
+    case 'tier':
+      return official.tier === filterValue;
+
+    case 'roleMatch':
+      const rolesArray = Array.isArray(filterValue) ? filterValue : [filterValue];
+      return rolesArray.includes(official.role);
+
+    case 'flag':
+      return official[filterValue] === true;
+
+    default:
+      return false;
+  }
+}

@@ -1,11 +1,13 @@
 import { MapPin, Map } from 'lucide-react';
 import { useApp } from '../context/AppContext';
+import { getCountryHierarchy } from '../utils/officials';
 import ResultsMap from './ResultsMap';
 import RepStackTabs from './RepStackTabs';
 
 export default function ResultsScreen() {
   const { state } = useApp();
   const { constituency, officials, country } = state;
+  const hierarchy = getCountryHierarchy(country);
 
   return (
     <div className="px-4 py-6 max-w-lg mx-auto">
@@ -36,6 +38,7 @@ export default function ResultsScreen() {
         officials={officials}
         country={country}
         constituencyId={constituency?.constituency_id}
+        hierarchy={hierarchy}
       />
     </div>
   );

@@ -15,7 +15,8 @@
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/akintayo57/caricom-replocator)",
       "Bash(lsof -i :5173,:5174,:5175)",
       "Bash(pkill -f \"vite|node\")",
-      "Bash(git commit -m \"feat: Implement tabbed representative display by governance level:*)"
+      "Bash(git commit -m \"feat: Implement tabbed representative display by governance level:*)",
+      "Bash(git push origin main)"
     ]
   }
 }

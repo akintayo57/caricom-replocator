@@ -14,6 +14,48 @@
         "St. John",
         "St. David",
         "Carriacou & Petite Martinique"
+      ],
+      "governmentHierarchy": [
+        {
+          "id": "local",
+          "label": "Local",
+          "icon": "Building2",
+          "color": "text-tropic-700",
+          "scope": "local",
+          "filterType": "tier",
+          "filterValue": "local",
+          "description": "City/town/village councillors and mayors"
+        },
+        {
+          "id": "mp",
+          "label": "Members of Parliament",
+          "icon": "Landmark",
+          "color": "text-ocean-700",
+          "scope": "constituency",
+          "filterType": "roleMatch",
+          "filterValue": ["Member of Parliament"],
+          "description": "Constituency representative in national parliament"
+        },
+        {
+          "id": "headOfGovernment",
+          "label": "Head of Government",
+          "icon": "Landmark",
+          "color": "text-coral-600",
+          "scope": "national",
+          "filterType": "flag",
+          "filterValue": "isHeadOfGovernment",
+          "description": "Prime Minister"
+        },
+        {
+          "id": "headOfState",
+          "label": "Head of State",
+          "icon": "Users",
+          "color": "text-ocean-950",
+          "scope": "national",
+          "filterType": "roleMatch",
+          "filterValue": ["Governor General", "President", "Monarch"],
+          "description": "Constitutional head of state"
+        }
       ]
     },
     "Dominica": {
@@ -29,6 +71,48 @@
         "St. David",
         "St. Patrick",
         "St. Joseph"
+      ],
+      "governmentHierarchy": [
+        {
+          "id": "local",
+          "label": "Local",
+          "icon": "Building2",
+          "color": "text-tropic-700",
+          "scope": "local",
+          "filterType": "tier",
+          "filterValue": "local",
+          "description": "City/town/village councillors and mayors"
+        },
+        {
+          "id": "mp",
+          "label": "Members of Parliament",
+          "icon": "Landmark",
+          "color": "text-ocean-700",
+          "scope": "constituency",
+          "filterType": "roleMatch",
+          "filterValue": ["Member of Parliament"],
+          "description": "Constituency representative in national parliament"
+        },
+        {
+          "id": "headOfGovernment",
+          "label": "Head of Government",
+          "icon": "Landmark",
+          "color": "text-coral-600",
+          "scope": "national",
+          "filterType": "flag",
+          "filterValue": "isHeadOfGovernment",
+          "description": "Prime Minister"
+        },
+        {
+          "id": "headOfState",
+          "label": "Head of State",
+          "icon": "Users",
+          "color": "text-ocean-950",
+          "scope": "national",
+          "filterType": "roleMatch",
+          "filterValue": ["Governor General", "President", "Monarch"],
+          "description": "Constitutional head of state"
+        }
       ]
     }
   },

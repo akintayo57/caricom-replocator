@@ -1,55 +1,42 @@
 import { useState } from 'react';
 import TabBar from './TabBar';
 import TabPanel from './TabPanel';
+import { applyHierarchyFilter } from '../utils/officials';
 
-export default function RepStackTabs({ officials, country, constituencyId }) {
-  const [activeTab, setActiveTab] = useState('local');
+export default function RepStackTabs({ officials, country, constituencyId, hierarchy = [] }) {
+  const [activeTab, setActiveTab] = useState(hierarchy?.[0]?.id || 'local');
 
-  if (!officials) return null;
+  if (!officials || !hierarchy || hierarchy.length === 0) return null;
 
-  // Filter officials by tab
-  const filteredOfficials = {
-    local: officials.local || [],
-    mp: officials.national?.filter(
-      (o) => o.role === 'Member of Parliament' && o.constituency_id === constituencyId
-    ) || [],
-    headOfGovernment: officials.national?.filter(
-      (o) => o.isHeadOfGovernment === true && o.country === country
-    ) || [],
-    headOfState: officials.national?.filter(
-      (o) => (o.role === 'Governor General' || o.role === 'President' || o.role === 'Monarch') &&
-             o.country === country
-    ) || [],
+  // Filter officials for a specific hierarchy tier
+  const filterOfficialsForTier = (tierConfig) => {
+    const context = { country, constituencyId };
+
+    // Determine which officials array to use based on scope
+    const officialsToFilter = tierConfig.scope === 'local'
+      ? officials.local
+      : officials.national;
+
+    if (!officialsToFilter) return [];
+
+    return officialsToFilter.filter(o =>
+      applyHierarchyFilter(o, tierConfig, context)
+    );
   };
 
   return (
     <div className="space-y-4">
-      <TabBar activeTab={activeTab} onTabChange={setActiveTab} />
+      <TabBar activeTab={activeTab} onTabChange={setActiveTab} hierarchy={hierarchy} />
       <div className="px-4">
-        <TabPanel
-          id="local"
-          isActive={activeTab === 'local'}
-          officials={filteredOfficials.local}
-          title="Local Council"
-        />
-        <TabPanel
-          id="mp"
-          isActive={activeTab === 'mp'}
-          officials={filteredOfficials.mp}
-          title="Members of Parliament"
-        />
-        <TabPanel
-          id="headOfGovernment"
-          isActive={activeTab === 'headOfGovernment'}
-          officials={filteredOfficials.headOfGovernment}
-          title="Head of Government"
-        />
-        <TabPanel
-          id="headOfState"
-          isActive={activeTab === 'headOfState'}
-          officials={filteredOfficials.headOfState}
-          title="Head of State"
-        />
+        {hierarchy.map((tier) => (
+          <TabPanel
+            key={tier.id}
+            id={tier.id}
+            isActive={activeTab === tier.id}
+            officials={filterOfficialsForTier(tier)}
+            title={tier.label}
+          />
+        ))}
       </div>
     </div>
   );
