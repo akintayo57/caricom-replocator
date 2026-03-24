@@ -59,9 +59,8 @@
           [-61.725, 12.040],
           [-61.720, 12.025],
           [-61.730, 12.010],
-          [-61.750, 12.010],
-          [-61.760, 12.025],
-          [-61.760, 12.035],
+          [-61.745, 12.010],
+          [-61.750, 12.025],
           [-61.745, 12.040]
         ]]
       }
@@ -69,8 +68,8 @@
     {
       "type": "Feature",
       "properties": {
-        "constituency_id": "gd-stgeorge-sw",
-        "name": "St. George South-West",
+        "constituency_id": "gd-stgeorge-s",
+        "name": "St. George South",
         "country": "Grenada",
         "parish": "St. George"
       },
@@ -85,6 +84,28 @@
           [-61.790, 12.010],
           [-61.800, 12.025],
           [-61.790, 12.040]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-town-stgeorge",
+        "name": "Town of St. George",
+        "country": "Grenada",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.760, 12.025],
+          [-61.750, 12.025],
+          [-61.745, 12.010],
+          [-61.755, 11.998],
+          [-61.770, 11.998],
+          [-61.778, 12.010],
+          [-61.770, 12.010],
+          [-61.760, 12.025]
         ]]
       }
     },
@@ -178,8 +199,30 @@
     {
       "type": "Feature",
       "properties": {
-        "constituency_id": "gd-stpatrick",
-        "name": "St. Patrick's",
+        "constituency_id": "gd-stpatrick-e",
+        "name": "St. Patrick's East",
+        "country": "Grenada",
+        "parish": "St. Patrick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.710, 12.235],
+          [-61.690, 12.225],
+          [-61.680, 12.205],
+          [-61.685, 12.185],
+          [-61.705, 12.175],
+          [-61.715, 12.190],
+          [-61.715, 12.215],
+          [-61.710, 12.235]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gd-stpatrick-w",
+        "name": "St. Patrick's West",
         "country": "Grenada",
         "parish": "St. Patrick"
       },
@@ -188,10 +231,8 @@
         "coordinates": [[
           [-61.735, 12.230],
           [-61.710, 12.235],
-          [-61.690, 12.225],
-          [-61.680, 12.205],
-          [-61.685, 12.185],
-          [-61.705, 12.175],
+          [-61.715, 12.215],
+          [-61.715, 12.190],
           [-61.725, 12.180],
           [-61.740, 12.195],
           [-61.745, 12.215],
@@ -302,15 +343,15 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [-61.400, 15.310],
-          [-61.385, 15.310],
-          [-61.375, 15.300],
-          [-61.375, 15.290],
-          [-61.385, 15.280],
-          [-61.400, 15.280],
-          [-61.410, 15.290],
-          [-61.410, 15.300],
-          [-61.400, 15.310]
+          [-61.395, 15.310],
+          [-61.383, 15.310],
+          [-61.375, 15.302],
+          [-61.375, 15.293],
+          [-61.383, 15.285],
+          [-61.395, 15.285],
+          [-61.403, 15.293],
+          [-61.403, 15.302],
+          [-61.395, 15.310]
         ]]
       }
     },
@@ -325,15 +366,15 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [-61.400, 15.280],
-          [-61.385, 15.280],
-          [-61.375, 15.270],
-          [-61.375, 15.258],
-          [-61.385, 15.248],
-          [-61.400, 15.248],
-          [-61.410, 15.258],
-          [-61.410, 15.270],
-          [-61.400, 15.280]
+          [-61.395, 15.285],
+          [-61.383, 15.285],
+          [-61.375, 15.277],
+          [-61.375, 15.268],
+          [-61.383, 15.260],
+          [-61.395, 15.260],
+          [-61.403, 15.268],
+          [-61.403, 15.277],
+          [-61.395, 15.285]
         ]]
       }
     },
@@ -348,107 +389,62 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [-61.395, 15.308],
-          [-61.378, 15.308],
+          [-61.390, 15.305],
+          [-61.378, 15.305],
+          [-61.372, 15.297],
+          [-61.372, 15.288],
+          [-61.378, 15.278],
+          [-61.390, 15.278],
+          [-61.398, 15.288],
+          [-61.398, 15.297],
+          [-61.390, 15.305]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-roseau-valley",
+        "name": "Roseau Valley",
+        "country": "Dominica",
+        "parish": "St. George"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.385, 15.330],
+          [-61.370, 15.330],
+          [-61.360, 15.320],
+          [-61.360, 15.308],
           [-61.370, 15.298],
-          [-61.370, 15.282],
-          [-61.378, 15.272],
-          [-61.395, 15.272],
-          [-61.403, 15.282],
-          [-61.403, 15.298],
-          [-61.395, 15.308]
+          [-61.385, 15.298],
+          [-61.395, 15.308],
+          [-61.395, 15.320],
+          [-61.385, 15.330]
         ]]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "constituency_id": "dm-portsmouth",
-        "name": "Portsmouth",
+        "constituency_id": "dm-soufriere",
+        "name": "Soufriere/Scotts Head",
         "country": "Dominica",
-        "parish": "St. John"
+        "parish": "St. Mark"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [-61.480, 15.585],
-          [-61.455, 15.585],
-          [-61.440, 15.570],
-          [-61.440, 15.545],
-          [-61.455, 15.535],
-          [-61.480, 15.535],
-          [-61.495, 15.550],
-          [-61.495, 15.570],
-          [-61.480, 15.585]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "constituency_id": "dm-marigot",
-        "name": "Marigot",
-        "country": "Dominica",
-        "parish": "St. Andrew"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-61.395, 15.455],
-          [-61.370, 15.455],
-          [-61.355, 15.440],
-          [-61.355, 15.420],
-          [-61.370, 15.405],
-          [-61.395, 15.405],
-          [-61.410, 15.420],
-          [-61.410, 15.440],
-          [-61.395, 15.455]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "constituency_id": "dm-castle-bruce",
-        "name": "Castle Bruce",
-        "country": "Dominica",
-        "parish": "St. David"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-61.380, 15.430],
-          [-61.355, 15.430],
-          [-61.340, 15.415],
-          [-61.340, 15.395],
-          [-61.355, 15.380],
-          [-61.380, 15.380],
-          [-61.395, 15.395],
-          [-61.395, 15.415],
-          [-61.380, 15.430]
-        ]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "constituency_id": "dm-laPlaine",
-        "name": "La Plaine",
-        "country": "Dominica",
-        "parish": "St. Patrick"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [-61.390, 15.370],
-          [-61.365, 15.370],
-          [-61.350, 15.355],
-          [-61.350, 15.335],
-          [-61.365, 15.320],
-          [-61.390, 15.320],
-          [-61.405, 15.335],
-          [-61.405, 15.355],
-          [-61.390, 15.370]
+          [-61.380, 15.260],
+          [-61.365, 15.260],
+          [-61.355, 15.248],
+          [-61.355, 15.228],
+          [-61.365, 15.218],
+          [-61.380, 15.218],
+          [-61.395, 15.228],
+          [-61.400, 15.248],
+          [-61.395, 15.255],
+          [-61.380, 15.260]
         ]]
       }
     },
@@ -463,15 +459,202 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [-61.410, 15.290],
-          [-61.385, 15.290],
-          [-61.370, 15.275],
-          [-61.370, 15.250],
-          [-61.385, 15.235],
-          [-61.410, 15.235],
-          [-61.425, 15.250],
-          [-61.425, 15.275],
-          [-61.410, 15.290]
+          [-61.400, 15.268],
+          [-61.385, 15.260],
+          [-61.378, 15.248],
+          [-61.378, 15.232],
+          [-61.385, 15.222],
+          [-61.400, 15.218],
+          [-61.418, 15.225],
+          [-61.425, 15.240],
+          [-61.420, 15.258],
+          [-61.400, 15.268]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-petiteSavanne",
+        "name": "Petite Savanne",
+        "country": "Dominica",
+        "parish": "St. Patrick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.380, 15.290],
+          [-61.365, 15.290],
+          [-61.355, 15.278],
+          [-61.355, 15.262],
+          [-61.365, 15.252],
+          [-61.380, 15.252],
+          [-61.390, 15.262],
+          [-61.390, 15.278],
+          [-61.380, 15.290]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-laPlaine",
+        "name": "La Plaine",
+        "country": "Dominica",
+        "parish": "St. Patrick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.375, 15.340],
+          [-61.358, 15.340],
+          [-61.348, 15.328],
+          [-61.348, 15.310],
+          [-61.358, 15.298],
+          [-61.375, 15.298],
+          [-61.388, 15.310],
+          [-61.388, 15.328],
+          [-61.375, 15.340]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-morneJaune",
+        "name": "Morne Jaune/Riviere Cyrique",
+        "country": "Dominica",
+        "parish": "St. David"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.370, 15.370],
+          [-61.352, 15.370],
+          [-61.342, 15.358],
+          [-61.342, 15.342],
+          [-61.352, 15.330],
+          [-61.370, 15.330],
+          [-61.382, 15.342],
+          [-61.382, 15.358],
+          [-61.370, 15.370]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-castle-bruce",
+        "name": "Castle Bruce",
+        "country": "Dominica",
+        "parish": "St. David"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.370, 15.405],
+          [-61.350, 15.405],
+          [-61.340, 15.392],
+          [-61.340, 15.375],
+          [-61.350, 15.362],
+          [-61.370, 15.362],
+          [-61.382, 15.375],
+          [-61.382, 15.392],
+          [-61.370, 15.405]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-salybia",
+        "name": "Salybia",
+        "country": "Dominica",
+        "parish": "St. David"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.370, 15.440],
+          [-61.350, 15.440],
+          [-61.340, 15.428],
+          [-61.340, 15.410],
+          [-61.350, 15.398],
+          [-61.370, 15.398],
+          [-61.382, 15.410],
+          [-61.382, 15.428],
+          [-61.370, 15.440]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-marigot",
+        "name": "Marigot",
+        "country": "Dominica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.385, 15.460],
+          [-61.365, 15.460],
+          [-61.352, 15.448],
+          [-61.348, 15.432],
+          [-61.355, 15.418],
+          [-61.370, 15.412],
+          [-61.388, 15.418],
+          [-61.398, 15.432],
+          [-61.398, 15.448],
+          [-61.385, 15.460]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-wesley",
+        "name": "Wesley",
+        "country": "Dominica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.395, 15.500],
+          [-61.375, 15.500],
+          [-61.362, 15.488],
+          [-61.358, 15.472],
+          [-61.365, 15.458],
+          [-61.380, 15.452],
+          [-61.398, 15.458],
+          [-61.408, 15.472],
+          [-61.408, 15.488],
+          [-61.395, 15.500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-mahaut",
+        "name": "Mahaut",
+        "country": "Dominica",
+        "parish": "St. Paul"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.420, 15.358],
+          [-61.400, 15.358],
+          [-61.390, 15.345],
+          [-61.390, 15.328],
+          [-61.400, 15.315],
+          [-61.420, 15.315],
+          [-61.432, 15.328],
+          [-61.432, 15.345],
+          [-61.420, 15.358]
         ]]
       }
     },
@@ -486,15 +669,1785 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [[
-          [-61.440, 15.420],
-          [-61.415, 15.420],
-          [-61.400, 15.405],
-          [-61.400, 15.385],
-          [-61.415, 15.370],
-          [-61.440, 15.370],
-          [-61.455, 15.385],
-          [-61.455, 15.405],
-          [-61.440, 15.420]
+          [-61.435, 15.410],
+          [-61.415, 15.410],
+          [-61.405, 15.398],
+          [-61.405, 15.380],
+          [-61.415, 15.368],
+          [-61.435, 15.368],
+          [-61.448, 15.380],
+          [-61.448, 15.398],
+          [-61.435, 15.410]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-salisbury",
+        "name": "Salisbury",
+        "country": "Dominica",
+        "parish": "St. Joseph"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.450, 15.455],
+          [-61.430, 15.455],
+          [-61.418, 15.442],
+          [-61.418, 15.425],
+          [-61.430, 15.412],
+          [-61.450, 15.412],
+          [-61.462, 15.425],
+          [-61.462, 15.442],
+          [-61.450, 15.455]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-colihaut",
+        "name": "Colihaut",
+        "country": "Dominica",
+        "parish": "St. Peter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.465, 15.500],
+          [-61.445, 15.500],
+          [-61.435, 15.488],
+          [-61.435, 15.470],
+          [-61.445, 15.458],
+          [-61.465, 15.458],
+          [-61.478, 15.470],
+          [-61.478, 15.488],
+          [-61.465, 15.500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-cottage",
+        "name": "Cottage",
+        "country": "Dominica",
+        "parish": "St. John"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.445, 15.535],
+          [-61.425, 15.535],
+          [-61.415, 15.522],
+          [-61.415, 15.505],
+          [-61.425, 15.492],
+          [-61.445, 15.492],
+          [-61.458, 15.505],
+          [-61.458, 15.522],
+          [-61.445, 15.535]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-portsmouth",
+        "name": "Portsmouth",
+        "country": "Dominica",
+        "parish": "St. John"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.475, 15.580],
+          [-61.455, 15.580],
+          [-61.442, 15.568],
+          [-61.442, 15.548],
+          [-61.455, 15.535],
+          [-61.475, 15.535],
+          [-61.490, 15.548],
+          [-61.490, 15.568],
+          [-61.475, 15.580]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-paixBouche",
+        "name": "Paix Bouche",
+        "country": "Dominica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.445, 15.570],
+          [-61.425, 15.570],
+          [-61.415, 15.558],
+          [-61.415, 15.540],
+          [-61.425, 15.528],
+          [-61.445, 15.528],
+          [-61.458, 15.540],
+          [-61.458, 15.558],
+          [-61.445, 15.570]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "dm-vieilleCase",
+        "name": "Vieille Case",
+        "country": "Dominica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.440, 15.630],
+          [-61.420, 15.630],
+          [-61.408, 15.618],
+          [-61.405, 15.600],
+          [-61.412, 15.585],
+          [-61.428, 15.578],
+          [-61.448, 15.582],
+          [-61.458, 15.595],
+          [-61.458, 15.615],
+          [-61.440, 15.630]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-kingston-western",
+        "name": "Kingston Western",
+        "country": "Jamaica",
+        "parish": "Kingston"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.810, 17.975],
+          [-76.785, 17.975],
+          [-76.785, 17.995],
+          [-76.800, 18.005],
+          [-76.810, 18.010],
+          [-76.820, 18.000],
+          [-76.820, 17.985],
+          [-76.810, 17.975]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-kingston-central",
+        "name": "Kingston Central",
+        "country": "Jamaica",
+        "parish": "Kingston"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.785, 17.975],
+          [-76.760, 17.975],
+          [-76.755, 17.985],
+          [-76.760, 18.000],
+          [-76.775, 18.008],
+          [-76.785, 18.005],
+          [-76.785, 17.995],
+          [-76.785, 17.975]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-kingston-east-port-royal",
+        "name": "Kingston East and Port Royal",
+        "country": "Jamaica",
+        "parish": "Kingston"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.760, 17.945],
+          [-76.725, 17.940],
+          [-76.718, 17.960],
+          [-76.720, 17.985],
+          [-76.740, 17.990],
+          [-76.755, 17.985],
+          [-76.760, 17.975],
+          [-76.760, 17.945]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-west-rural",
+        "name": "St. Andrew West Rural",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.880, 18.010],
+          [-76.840, 18.010],
+          [-76.820, 18.025],
+          [-76.820, 18.060],
+          [-76.840, 18.075],
+          [-76.870, 18.075],
+          [-76.885, 18.060],
+          [-76.890, 18.030],
+          [-76.880, 18.010]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-western",
+        "name": "St. Andrew Western",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.840, 17.975],
+          [-76.820, 17.975],
+          [-76.820, 18.000],
+          [-76.820, 18.010],
+          [-76.840, 18.010],
+          [-76.860, 18.005],
+          [-76.865, 17.990],
+          [-76.855, 17.978],
+          [-76.840, 17.975]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-west-central",
+        "name": "St. Andrew West Central",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.820, 17.985],
+          [-76.810, 17.975],
+          [-76.800, 17.975],
+          [-76.790, 17.975],
+          [-76.785, 17.985],
+          [-76.785, 18.005],
+          [-76.800, 18.010],
+          [-76.810, 18.010],
+          [-76.820, 18.010],
+          [-76.820, 18.000],
+          [-76.820, 17.985]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-east-central",
+        "name": "St. Andrew East Central",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.760, 17.985],
+          [-76.740, 17.985],
+          [-76.730, 17.995],
+          [-76.730, 18.010],
+          [-76.745, 18.018],
+          [-76.760, 18.018],
+          [-76.770, 18.008],
+          [-76.770, 17.995],
+          [-76.760, 17.985]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-south-western",
+        "name": "St. Andrew South Western",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.820, 17.955],
+          [-76.795, 17.950],
+          [-76.780, 17.955],
+          [-76.775, 17.965],
+          [-76.775, 17.980],
+          [-76.785, 17.985],
+          [-76.800, 17.985],
+          [-76.815, 17.980],
+          [-76.820, 17.970],
+          [-76.820, 17.955]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-southern",
+        "name": "St. Andrew Southern",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.770, 17.945],
+          [-76.760, 17.945],
+          [-76.755, 17.955],
+          [-76.755, 17.965],
+          [-76.760, 17.975],
+          [-76.775, 17.975],
+          [-76.780, 17.965],
+          [-76.775, 17.955],
+          [-76.770, 17.945]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-south-eastern",
+        "name": "St. Andrew South Eastern",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.755, 17.945],
+          [-76.730, 17.940],
+          [-76.720, 17.955],
+          [-76.720, 17.970],
+          [-76.730, 17.980],
+          [-76.745, 17.982],
+          [-76.755, 17.975],
+          [-76.760, 17.965],
+          [-76.755, 17.945]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-eastern",
+        "name": "St. Andrew Eastern",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.730, 17.980],
+          [-76.710, 17.975],
+          [-76.695, 17.990],
+          [-76.695, 18.015],
+          [-76.710, 18.025],
+          [-76.730, 18.025],
+          [-76.745, 18.018],
+          [-76.745, 18.000],
+          [-76.730, 17.980]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-north-eastern",
+        "name": "St. Andrew North Eastern",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.780, 18.060],
+          [-76.750, 18.055],
+          [-76.730, 18.060],
+          [-76.718, 18.080],
+          [-76.720, 18.100],
+          [-76.740, 18.115],
+          [-76.765, 18.112],
+          [-76.780, 18.095],
+          [-76.785, 18.075],
+          [-76.780, 18.060]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-north-central",
+        "name": "St. Andrew North Central",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.820, 18.060],
+          [-76.790, 18.055],
+          [-76.780, 18.060],
+          [-76.780, 18.080],
+          [-76.785, 18.095],
+          [-76.800, 18.105],
+          [-76.820, 18.100],
+          [-76.835, 18.085],
+          [-76.830, 18.068],
+          [-76.820, 18.060]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-north-western",
+        "name": "St. Andrew North Western",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.870, 18.060],
+          [-76.840, 18.055],
+          [-76.820, 18.060],
+          [-76.820, 18.080],
+          [-76.820, 18.100],
+          [-76.840, 18.112],
+          [-76.862, 18.108],
+          [-76.875, 18.090],
+          [-76.875, 18.072],
+          [-76.870, 18.060]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-standrew-east-rural",
+        "name": "St. Andrew East Rural",
+        "country": "Jamaica",
+        "parish": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.745, 18.018],
+          [-76.730, 18.025],
+          [-76.710, 18.025],
+          [-76.695, 18.040],
+          [-76.695, 18.080],
+          [-76.715, 18.100],
+          [-76.740, 18.105],
+          [-76.755, 18.090],
+          [-76.760, 18.065],
+          [-76.750, 18.040],
+          [-76.745, 18.018]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stthomas-western",
+        "name": "St. Thomas Western",
+        "country": "Jamaica",
+        "parish": "St. Thomas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.695, 17.930],
+          [-76.650, 17.920],
+          [-76.600, 17.930],
+          [-76.580, 17.960],
+          [-76.590, 17.990],
+          [-76.618, 18.005],
+          [-76.650, 18.010],
+          [-76.680, 17.998],
+          [-76.700, 17.975],
+          [-76.700, 17.950],
+          [-76.695, 17.930]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stthomas-eastern",
+        "name": "St. Thomas Eastern",
+        "country": "Jamaica",
+        "parish": "St. Thomas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.580, 17.890],
+          [-76.520, 17.880],
+          [-76.450, 17.905],
+          [-76.400, 17.940],
+          [-76.385, 17.975],
+          [-76.410, 18.000],
+          [-76.460, 18.008],
+          [-76.520, 17.998],
+          [-76.565, 17.975],
+          [-76.580, 17.950],
+          [-76.580, 17.890]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-portland-eastern",
+        "name": "Portland Eastern",
+        "country": "Jamaica",
+        "parish": "Portland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.450, 18.120],
+          [-76.400, 18.110],
+          [-76.350, 18.140],
+          [-76.320, 18.185],
+          [-76.335, 18.230],
+          [-76.375, 18.260],
+          [-76.425, 18.265],
+          [-76.465, 18.240],
+          [-76.480, 18.200],
+          [-76.470, 18.160],
+          [-76.450, 18.120]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-portland-western",
+        "name": "Portland Western",
+        "country": "Jamaica",
+        "parish": "Portland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.680, 18.120],
+          [-76.600, 18.105],
+          [-76.530, 18.095],
+          [-76.480, 18.120],
+          [-76.465, 18.160],
+          [-76.480, 18.200],
+          [-76.520, 18.220],
+          [-76.570, 18.225],
+          [-76.620, 18.210],
+          [-76.660, 18.180],
+          [-76.685, 18.150],
+          [-76.680, 18.120]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stmary-south-eastern",
+        "name": "St. Mary South Eastern",
+        "country": "Jamaica",
+        "parish": "St. Mary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.800, 18.260],
+          [-76.760, 18.240],
+          [-76.720, 18.235],
+          [-76.690, 18.255],
+          [-76.680, 18.290],
+          [-76.695, 18.325],
+          [-76.730, 18.345],
+          [-76.770, 18.345],
+          [-76.805, 18.325],
+          [-76.815, 18.295],
+          [-76.800, 18.260]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stmary-central",
+        "name": "St. Mary Central",
+        "country": "Jamaica",
+        "parish": "St. Mary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.960, 18.290],
+          [-76.920, 18.270],
+          [-76.880, 18.265],
+          [-76.840, 18.275],
+          [-76.815, 18.295],
+          [-76.805, 18.325],
+          [-76.820, 18.360],
+          [-76.860, 18.380],
+          [-76.905, 18.382],
+          [-76.945, 18.365],
+          [-76.968, 18.335],
+          [-76.965, 18.310],
+          [-76.960, 18.290]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stmary-western",
+        "name": "St. Mary Western",
+        "country": "Jamaica",
+        "parish": "St. Mary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.120, 18.300],
+          [-77.080, 18.280],
+          [-77.030, 18.270],
+          [-76.990, 18.278],
+          [-76.968, 18.300],
+          [-76.965, 18.335],
+          [-76.985, 18.370],
+          [-77.025, 18.392],
+          [-77.070, 18.395],
+          [-77.110, 18.375],
+          [-77.130, 18.345],
+          [-77.125, 18.320],
+          [-77.120, 18.300]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stann-south-eastern",
+        "name": "St. Ann South Eastern",
+        "country": "Jamaica",
+        "parish": "St. Ann"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.170, 18.260],
+          [-77.130, 18.250],
+          [-77.090, 18.250],
+          [-77.060, 18.265],
+          [-77.040, 18.295],
+          [-77.050, 18.330],
+          [-77.080, 18.355],
+          [-77.120, 18.365],
+          [-77.160, 18.355],
+          [-77.185, 18.330],
+          [-77.185, 18.295],
+          [-77.170, 18.260]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stann-north-eastern",
+        "name": "St. Ann North Eastern",
+        "country": "Jamaica",
+        "parish": "St. Ann"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.170, 18.355],
+          [-77.130, 18.355],
+          [-77.090, 18.370],
+          [-77.060, 18.400],
+          [-77.060, 18.435],
+          [-77.090, 18.460],
+          [-77.130, 18.470],
+          [-77.168, 18.462],
+          [-77.192, 18.438],
+          [-77.195, 18.408],
+          [-77.180, 18.375],
+          [-77.170, 18.355]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stann-north-western",
+        "name": "St. Ann North Western",
+        "country": "Jamaica",
+        "parish": "St. Ann"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.420, 18.375],
+          [-77.380, 18.355],
+          [-77.340, 18.350],
+          [-77.295, 18.360],
+          [-77.270, 18.388],
+          [-77.270, 18.420],
+          [-77.292, 18.450],
+          [-77.330, 18.465],
+          [-77.372, 18.465],
+          [-77.410, 18.448],
+          [-77.428, 18.420],
+          [-77.425, 18.395],
+          [-77.420, 18.375]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stann-south-western",
+        "name": "St. Ann South Western",
+        "country": "Jamaica",
+        "parish": "St. Ann"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.420, 18.270],
+          [-77.380, 18.255],
+          [-77.340, 18.250],
+          [-77.295, 18.260],
+          [-77.260, 18.285],
+          [-77.255, 18.320],
+          [-77.270, 18.355],
+          [-77.295, 18.375],
+          [-77.340, 18.382],
+          [-77.380, 18.372],
+          [-77.415, 18.350],
+          [-77.428, 18.318],
+          [-77.424, 18.292],
+          [-77.420, 18.270]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-trelawny-northern",
+        "name": "Trelawny Northern",
+        "country": "Jamaica",
+        "parish": "Trelawny"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.720, 18.375],
+          [-77.680, 18.360],
+          [-77.640, 18.360],
+          [-77.600, 18.375],
+          [-77.575, 18.405],
+          [-77.580, 18.440],
+          [-77.608, 18.470],
+          [-77.648, 18.485],
+          [-77.692, 18.482],
+          [-77.722, 18.460],
+          [-77.732, 18.430],
+          [-77.720, 18.375]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-trelawny-southern",
+        "name": "Trelawny Southern",
+        "country": "Jamaica",
+        "parish": "Trelawny"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.720, 18.265],
+          [-77.680, 18.252],
+          [-77.640, 18.252],
+          [-77.600, 18.260],
+          [-77.575, 18.285],
+          [-77.572, 18.320],
+          [-77.580, 18.350],
+          [-77.600, 18.375],
+          [-77.640, 18.385],
+          [-77.680, 18.380],
+          [-77.720, 18.365],
+          [-77.738, 18.340],
+          [-77.740, 18.305],
+          [-77.725, 18.275],
+          [-77.720, 18.265]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stjames-east-central",
+        "name": "St. James East Central",
+        "country": "Jamaica",
+        "parish": "St. James"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.825, 18.295],
+          [-77.800, 18.280],
+          [-77.775, 18.280],
+          [-77.755, 18.295],
+          [-77.748, 18.320],
+          [-77.758, 18.348],
+          [-77.782, 18.362],
+          [-77.812, 18.360],
+          [-77.832, 18.342],
+          [-77.838, 18.318],
+          [-77.825, 18.295]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stjames-north-western",
+        "name": "St. James North Western",
+        "country": "Jamaica",
+        "parish": "St. James"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.980, 18.390],
+          [-77.950, 18.375],
+          [-77.910, 18.370],
+          [-77.875, 18.380],
+          [-77.852, 18.408],
+          [-77.852, 18.445],
+          [-77.878, 18.472],
+          [-77.918, 18.485],
+          [-77.958, 18.480],
+          [-77.985, 18.458],
+          [-77.992, 18.428],
+          [-77.980, 18.390]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stjames-central",
+        "name": "St. James Central",
+        "country": "Jamaica",
+        "parish": "St. James"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.930, 18.360],
+          [-77.900, 18.348],
+          [-77.868, 18.348],
+          [-77.848, 18.362],
+          [-77.838, 18.388],
+          [-77.845, 18.418],
+          [-77.868, 18.438],
+          [-77.900, 18.445],
+          [-77.932, 18.435],
+          [-77.950, 18.412],
+          [-77.948, 18.382],
+          [-77.930, 18.360]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stjames-west-central",
+        "name": "St. James West Central",
+        "country": "Jamaica",
+        "parish": "St. James"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.880, 18.255],
+          [-77.850, 18.245],
+          [-77.820, 18.248],
+          [-77.795, 18.262],
+          [-77.785, 18.288],
+          [-77.792, 18.318],
+          [-77.815, 18.335],
+          [-77.848, 18.338],
+          [-77.878, 18.325],
+          [-77.892, 18.300],
+          [-77.888, 18.270],
+          [-77.880, 18.255]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stjames-southern",
+        "name": "St. James Southern",
+        "country": "Jamaica",
+        "parish": "St. James"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.948, 18.265],
+          [-77.920, 18.252],
+          [-77.888, 18.252],
+          [-77.862, 18.265],
+          [-77.848, 18.292],
+          [-77.852, 18.322],
+          [-77.875, 18.340],
+          [-77.908, 18.345],
+          [-77.940, 18.332],
+          [-77.958, 18.308],
+          [-77.958, 18.280],
+          [-77.948, 18.265]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-hanover-eastern",
+        "name": "Hanover Eastern",
+        "country": "Jamaica",
+        "parish": "Hanover"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-78.120, 18.350],
+          [-78.080, 18.335],
+          [-78.040, 18.335],
+          [-78.005, 18.350],
+          [-77.988, 18.380],
+          [-77.992, 18.415],
+          [-78.018, 18.442],
+          [-78.058, 18.455],
+          [-78.100, 18.450],
+          [-78.130, 18.428],
+          [-78.140, 18.398],
+          [-78.125, 18.362],
+          [-78.120, 18.350]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-hanover-western",
+        "name": "Hanover Western",
+        "country": "Jamaica",
+        "parish": "Hanover"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-78.280, 18.330],
+          [-78.240, 18.318],
+          [-78.200, 18.318],
+          [-78.162, 18.330],
+          [-78.140, 18.358],
+          [-78.140, 18.395],
+          [-78.162, 18.422],
+          [-78.200, 18.438],
+          [-78.242, 18.435],
+          [-78.272, 18.415],
+          [-78.288, 18.385],
+          [-78.285, 18.355],
+          [-78.280, 18.330]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-westmoreland-western",
+        "name": "Westmoreland Western",
+        "country": "Jamaica",
+        "parish": "Westmoreland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-78.370, 18.200],
+          [-78.340, 18.178],
+          [-78.310, 18.165],
+          [-78.278, 18.170],
+          [-78.255, 18.195],
+          [-78.252, 18.228],
+          [-78.268, 18.258],
+          [-78.298, 18.275],
+          [-78.335, 18.278],
+          [-78.368, 18.260],
+          [-78.385, 18.232],
+          [-78.382, 18.210],
+          [-78.370, 18.200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-westmoreland-central",
+        "name": "Westmoreland Central",
+        "country": "Jamaica",
+        "parish": "Westmoreland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-78.215, 18.190],
+          [-78.180, 18.172],
+          [-78.145, 18.168],
+          [-78.112, 18.178],
+          [-78.090, 18.205],
+          [-78.090, 18.240],
+          [-78.110, 18.268],
+          [-78.142, 18.282],
+          [-78.178, 18.282],
+          [-78.212, 18.265],
+          [-78.230, 18.238],
+          [-78.228, 18.208],
+          [-78.215, 18.190]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-westmoreland-eastern",
+        "name": "Westmoreland Eastern",
+        "country": "Jamaica",
+        "parish": "Westmoreland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-78.085, 18.160],
+          [-78.045, 18.145],
+          [-78.005, 18.145],
+          [-77.968, 18.160],
+          [-77.950, 18.190],
+          [-77.952, 18.228],
+          [-77.978, 18.255],
+          [-78.015, 18.265],
+          [-78.055, 18.262],
+          [-78.085, 18.242],
+          [-78.098, 18.215],
+          [-78.092, 18.182],
+          [-78.085, 18.160]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stelizabeth-north-western",
+        "name": "St. Elizabeth North Western",
+        "country": "Jamaica",
+        "parish": "St. Elizabeth"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.780, 18.165],
+          [-77.740, 18.148],
+          [-77.700, 18.148],
+          [-77.665, 18.162],
+          [-77.645, 18.192],
+          [-77.648, 18.230],
+          [-77.672, 18.258],
+          [-77.710, 18.270],
+          [-77.752, 18.265],
+          [-77.782, 18.245],
+          [-77.795, 18.218],
+          [-77.790, 18.185],
+          [-77.780, 18.165]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stelizabeth-north-eastern",
+        "name": "St. Elizabeth North Eastern",
+        "country": "Jamaica",
+        "parish": "St. Elizabeth"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.568, 18.165],
+          [-77.530, 18.148],
+          [-77.490, 18.148],
+          [-77.455, 18.162],
+          [-77.432, 18.192],
+          [-77.435, 18.228],
+          [-77.458, 18.255],
+          [-77.495, 18.268],
+          [-77.535, 18.265],
+          [-77.565, 18.245],
+          [-77.578, 18.218],
+          [-77.575, 18.185],
+          [-77.568, 18.165]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stelizabeth-south-western",
+        "name": "St. Elizabeth South Western",
+        "country": "Jamaica",
+        "parish": "St. Elizabeth"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.780, 17.950],
+          [-77.740, 17.935],
+          [-77.700, 17.935],
+          [-77.660, 17.948],
+          [-77.640, 17.978],
+          [-77.642, 18.015],
+          [-77.665, 18.045],
+          [-77.702, 18.058],
+          [-77.742, 18.055],
+          [-77.775, 18.035],
+          [-77.792, 18.008],
+          [-77.790, 17.972],
+          [-77.780, 17.950]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stelizabeth-south-eastern",
+        "name": "St. Elizabeth South Eastern",
+        "country": "Jamaica",
+        "parish": "St. Elizabeth"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.568, 17.960],
+          [-77.530, 17.945],
+          [-77.490, 17.945],
+          [-77.452, 17.958],
+          [-77.432, 17.988],
+          [-77.435, 18.025],
+          [-77.458, 18.052],
+          [-77.495, 18.065],
+          [-77.535, 18.062],
+          [-77.565, 18.042],
+          [-77.580, 18.015],
+          [-77.576, 17.982],
+          [-77.568, 17.960]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-manchester-southern",
+        "name": "Manchester Southern",
+        "country": "Jamaica",
+        "parish": "Manchester"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.480, 17.920],
+          [-77.440, 17.908],
+          [-77.400, 17.908],
+          [-77.362, 17.922],
+          [-77.342, 17.950],
+          [-77.345, 17.985],
+          [-77.368, 18.012],
+          [-77.405, 18.025],
+          [-77.445, 18.022],
+          [-77.475, 18.002],
+          [-77.490, 17.975],
+          [-77.487, 17.942],
+          [-77.480, 17.920]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-manchester-central",
+        "name": "Manchester Central",
+        "country": "Jamaica",
+        "parish": "Manchester"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.480, 18.045],
+          [-77.442, 18.032],
+          [-77.405, 18.035],
+          [-77.375, 18.052],
+          [-77.355, 18.082],
+          [-77.358, 18.120],
+          [-77.382, 18.148],
+          [-77.418, 18.160],
+          [-77.458, 18.158],
+          [-77.488, 18.138],
+          [-77.502, 18.110],
+          [-77.498, 18.075],
+          [-77.480, 18.045]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-manchester-north-western",
+        "name": "Manchester North Western",
+        "country": "Jamaica",
+        "parish": "Manchester"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.575, 18.105],
+          [-77.535, 18.090],
+          [-77.498, 18.090],
+          [-77.468, 18.105],
+          [-77.452, 18.135],
+          [-77.455, 18.175],
+          [-77.478, 18.202],
+          [-77.515, 18.215],
+          [-77.555, 18.212],
+          [-77.582, 18.192],
+          [-77.595, 18.165],
+          [-77.590, 18.130],
+          [-77.575, 18.105]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-manchester-north-eastern",
+        "name": "Manchester North Eastern",
+        "country": "Jamaica",
+        "parish": "Manchester"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.380, 18.115],
+          [-77.340, 18.100],
+          [-77.302, 18.100],
+          [-77.272, 18.115],
+          [-77.252, 18.145],
+          [-77.255, 18.185],
+          [-77.278, 18.212],
+          [-77.315, 18.225],
+          [-77.355, 18.222],
+          [-77.382, 18.202],
+          [-77.395, 18.175],
+          [-77.390, 18.138],
+          [-77.380, 18.115]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-clarendon-north-western",
+        "name": "Clarendon North Western",
+        "country": "Jamaica",
+        "parish": "Clarendon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.280, 18.120],
+          [-77.240, 18.105],
+          [-77.200, 18.105],
+          [-77.165, 18.118],
+          [-77.145, 18.148],
+          [-77.148, 18.188],
+          [-77.172, 18.215],
+          [-77.208, 18.228],
+          [-77.248, 18.225],
+          [-77.278, 18.205],
+          [-77.292, 18.178],
+          [-77.288, 18.142],
+          [-77.280, 18.120]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-clarendon-northern",
+        "name": "Clarendon Northern",
+        "country": "Jamaica",
+        "parish": "Clarendon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.140, 18.130],
+          [-77.100, 18.115],
+          [-77.060, 18.115],
+          [-77.025, 18.128],
+          [-77.005, 18.158],
+          [-77.008, 18.198],
+          [-77.032, 18.225],
+          [-77.068, 18.238],
+          [-77.108, 18.235],
+          [-77.138, 18.215],
+          [-77.152, 18.188],
+          [-77.148, 18.152],
+          [-77.140, 18.130]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-clarendon-north-central",
+        "name": "Clarendon North Central",
+        "country": "Jamaica",
+        "parish": "Clarendon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.100, 18.020],
+          [-77.060, 18.008],
+          [-77.020, 18.008],
+          [-76.985, 18.020],
+          [-76.965, 18.048],
+          [-76.968, 18.085],
+          [-76.992, 18.112],
+          [-77.028, 18.125],
+          [-77.068, 18.122],
+          [-77.098, 18.102],
+          [-77.112, 18.075],
+          [-77.108, 18.040],
+          [-77.100, 18.020]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-clarendon-central",
+        "name": "Clarendon Central",
+        "country": "Jamaica",
+        "parish": "Clarendon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.262, 17.975],
+          [-77.222, 17.962],
+          [-77.182, 17.962],
+          [-77.148, 17.975],
+          [-77.128, 18.002],
+          [-77.130, 18.038],
+          [-77.155, 18.065],
+          [-77.190, 18.078],
+          [-77.230, 18.075],
+          [-77.260, 18.055],
+          [-77.275, 18.028],
+          [-77.270, 17.995],
+          [-77.262, 17.975]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-clarendon-south-western",
+        "name": "Clarendon South Western",
+        "country": "Jamaica",
+        "parish": "Clarendon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.370, 17.882],
+          [-77.330, 17.868],
+          [-77.290, 17.868],
+          [-77.252, 17.882],
+          [-77.232, 17.910],
+          [-77.235, 17.948],
+          [-77.258, 17.975],
+          [-77.295, 17.988],
+          [-77.335, 17.985],
+          [-77.365, 17.965],
+          [-77.380, 17.938],
+          [-77.375, 17.902],
+          [-77.370, 17.882]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-clarendon-south-eastern",
+        "name": "Clarendon South Eastern",
+        "country": "Jamaica",
+        "parish": "Clarendon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.148, 17.875],
+          [-77.108, 17.862],
+          [-77.068, 17.862],
+          [-77.032, 17.875],
+          [-77.012, 17.902],
+          [-77.015, 17.938],
+          [-77.038, 17.965],
+          [-77.075, 17.978],
+          [-77.115, 17.975],
+          [-77.145, 17.955],
+          [-77.160, 17.928],
+          [-77.155, 17.892],
+          [-77.148, 17.875]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-north-western",
+        "name": "St. Catherine North Western",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.135, 18.155],
+          [-77.095, 18.140],
+          [-77.058, 18.140],
+          [-77.028, 18.155],
+          [-77.010, 18.182],
+          [-77.012, 18.218],
+          [-77.038, 18.245],
+          [-77.075, 18.258],
+          [-77.115, 18.255],
+          [-77.142, 18.235],
+          [-77.155, 18.208],
+          [-77.150, 18.172],
+          [-77.135, 18.155]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-south-western",
+        "name": "St. Catherine South Western",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.135, 17.958],
+          [-77.095, 17.945],
+          [-77.058, 17.945],
+          [-77.028, 17.958],
+          [-77.010, 17.985],
+          [-77.012, 18.020],
+          [-77.038, 18.048],
+          [-77.075, 18.060],
+          [-77.115, 18.058],
+          [-77.142, 18.038],
+          [-77.155, 18.012],
+          [-77.150, 17.975],
+          [-77.135, 17.958]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-southern",
+        "name": "St. Catherine Southern",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.010, 17.920],
+          [-76.975, 17.908],
+          [-76.940, 17.908],
+          [-76.908, 17.922],
+          [-76.890, 17.948],
+          [-76.892, 17.982],
+          [-76.918, 18.008],
+          [-76.952, 18.020],
+          [-76.992, 18.018],
+          [-77.020, 17.998],
+          [-77.032, 17.972],
+          [-77.025, 17.938],
+          [-77.010, 17.920]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-central",
+        "name": "St. Catherine Central",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.010, 18.040],
+          [-76.972, 18.028],
+          [-76.935, 18.028],
+          [-76.905, 18.042],
+          [-76.885, 18.068],
+          [-76.888, 18.102],
+          [-76.912, 18.128],
+          [-76.948, 18.140],
+          [-76.988, 18.138],
+          [-77.018, 18.118],
+          [-77.030, 18.092],
+          [-77.025, 18.058],
+          [-77.010, 18.040]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-south-eastern",
+        "name": "St. Catherine South Eastern",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.892, 17.882],
+          [-76.852, 17.868],
+          [-76.812, 17.868],
+          [-76.778, 17.882],
+          [-76.758, 17.908],
+          [-76.760, 17.942],
+          [-76.785, 17.968],
+          [-76.820, 17.980],
+          [-76.860, 17.978],
+          [-76.890, 17.958],
+          [-76.905, 17.932],
+          [-76.900, 17.898],
+          [-76.892, 17.882]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-north-central",
+        "name": "St. Catherine North Central",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.028, 18.140],
+          [-76.990, 18.128],
+          [-76.952, 18.128],
+          [-76.922, 18.142],
+          [-76.902, 18.168],
+          [-76.905, 18.202],
+          [-76.928, 18.228],
+          [-76.965, 18.240],
+          [-77.005, 18.238],
+          [-77.032, 18.218],
+          [-77.045, 18.192],
+          [-77.040, 18.158],
+          [-77.028, 18.140]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-west-central",
+        "name": "St. Catherine West Central",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.155, 18.048],
+          [-77.118, 18.035],
+          [-77.082, 18.035],
+          [-77.052, 18.048],
+          [-77.032, 18.075],
+          [-77.035, 18.110],
+          [-77.058, 18.138],
+          [-77.092, 18.150],
+          [-77.132, 18.148],
+          [-77.160, 18.128],
+          [-77.172, 18.102],
+          [-77.168, 18.068],
+          [-77.155, 18.048]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-north-eastern",
+        "name": "St. Catherine North Eastern",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.900, 18.230],
+          [-76.860, 18.218],
+          [-76.822, 18.218],
+          [-76.792, 18.232],
+          [-76.772, 18.258],
+          [-76.775, 18.292],
+          [-76.800, 18.318],
+          [-76.835, 18.330],
+          [-76.875, 18.328],
+          [-76.902, 18.308],
+          [-76.915, 18.282],
+          [-76.910, 18.248],
+          [-76.900, 18.230]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-eastern",
+        "name": "St. Catherine Eastern",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.780, 18.050],
+          [-76.740, 18.038],
+          [-76.702, 18.038],
+          [-76.672, 18.052],
+          [-76.652, 18.078],
+          [-76.655, 18.112],
+          [-76.678, 18.138],
+          [-76.715, 18.150],
+          [-76.755, 18.148],
+          [-76.782, 18.128],
+          [-76.795, 18.102],
+          [-76.790, 18.068],
+          [-76.780, 18.050]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-south-central",
+        "name": "St. Catherine South Central",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.970, 17.868],
+          [-76.930, 17.855],
+          [-76.890, 17.855],
+          [-76.858, 17.868],
+          [-76.838, 17.895],
+          [-76.840, 17.930],
+          [-76.865, 17.958],
+          [-76.900, 17.970],
+          [-76.940, 17.968],
+          [-76.968, 17.948],
+          [-76.982, 17.922],
+          [-76.978, 17.888],
+          [-76.970, 17.868]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "jm-stcatherine-east-central",
+        "name": "St. Catherine East Central",
+        "country": "Jamaica",
+        "parish": "St. Catherine"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.885, 18.010],
+          [-76.848, 17.998],
+          [-76.812, 17.998],
+          [-76.782, 18.012],
+          [-76.762, 18.038],
+          [-76.765, 18.072],
+          [-76.790, 18.098],
+          [-76.825, 18.110],
+          [-76.865, 18.108],
+          [-76.892, 18.088],
+          [-76.905, 18.062],
+          [-76.900, 18.028],
+          [-76.885, 18.010]
         ]]
       }
     }

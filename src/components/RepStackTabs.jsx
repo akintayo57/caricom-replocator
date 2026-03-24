@@ -4,20 +4,14 @@ import TabPanel from './TabPanel';
 import { applyHierarchyFilter } from '../utils/officials';
 
 export default function RepStackTabs({ officials, country, constituencyId, hierarchy = [] }) {
-  const [activeTab, setActiveTab] = useState(hierarchy?.[0]?.id || 'local');
+  const [activeTab, setActiveTab] = useState(hierarchy?.[0]?.id || 'mp');
 
   if (!officials || !hierarchy || hierarchy.length === 0) return null;
 
   // Filter officials for a specific hierarchy tier
   const filterOfficialsForTier = (tierConfig) => {
     const context = { country, constituencyId };
-
-    // Determine which officials array to use based on scope
-    const officialsToFilter = tierConfig.scope === 'local'
-      ? officials.local
-      : officials.national;
-
-    if (!officialsToFilter) return [];
+    const officialsToFilter = officials.all || [];
 
     return officialsToFilter.filter(o =>
       applyHierarchyFilter(o, tierConfig, context)

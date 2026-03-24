@@ -1,19 +1,11 @@
 import data from '../data/officials.json';
 
 export function getOfficialsForConstituency(constituencyId, country) {
-  const local = data.officials.filter(
-    (o) => o.tier === 'local' && o.constituency_id === constituencyId
-  );
-  // Include all national officials, not just those for the constituency
-  // This allows filtering for MPs, PMs, and Presidents in RepStackTabs
-  const national = data.officials.filter(
-    (o) => o.tier === 'national' && o.country === country
-  );
-  const senate = data.officials.filter(
-    (o) => o.tier === 'senate' && o.country === country
+  const all = data.officials.filter(
+    (o) => o.country === country
   );
 
-  return { local, national, senate };
+  return { all };
 }
 
 export function getCountries() {
