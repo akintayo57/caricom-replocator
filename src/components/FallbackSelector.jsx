@@ -140,6 +140,7 @@ export default function FallbackSelector() {
       <div className="flex gap-2 mb-2">
         <input
           type="text"
+          maxLength={200}
           value={addressText}
           onChange={(e) => {
             setAddressText(e.target.value);
