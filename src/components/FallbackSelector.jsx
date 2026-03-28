@@ -141,6 +141,7 @@ export default function FallbackSelector() {
         <input
           type="text"
           value={addressText}
+          maxLength={200}
           onChange={(e) => {
             setAddressText(e.target.value);
             setAddressError('');
