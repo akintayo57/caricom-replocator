@@ -41,9 +41,10 @@ export function applyHierarchyFilter(official, filterConfig, context) {
   // Check country match
   if (official.country !== country) return false;
 
-  // Check scope-based constituency filtering
-  if (scope === 'local' && official.constituency_id !== constituencyId) {
-    return false;
+  // Check scope-based constituency filtering (constituencyId may be an array)
+  if (scope === 'local') {
+    const ids = Array.isArray(constituencyId) ? constituencyId : [constituencyId];
+    if (!ids.includes(official.constituency_id)) return false;
   }
 
   // Apply type-specific filter

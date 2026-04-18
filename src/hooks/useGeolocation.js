@@ -1,6 +1,6 @@
 import { useCallback } from 'react';
 import { useApp } from '../context/AppContext';
-import { findConstituency } from '../utils/pip';
+import { findConstituency, findAllConstituencies } from '../utils/pip';
 import { getOfficialsForConstituency } from '../utils/officials';
 
 export function useGeolocation() {
@@ -44,6 +44,9 @@ export function useGeolocation() {
         return;
       }
 
+      const allMatches = findAllConstituencies(lat, lng, state.geojson);
+      const allConstituencyIds = allMatches.map(m => m.constituency_id);
+
       const officials = getOfficialsForConstituency(match.constituency_id, match.country);
       dispatch({
         type: 'SHOW_RESULTS',
@@ -52,6 +55,7 @@ export function useGeolocation() {
           coordinates: { lat, lng },
           officials,
           country: match.country,
+          allConstituencyIds,
         },
       });
     },

@@ -7,6 +7,7 @@ const initialState = {
   country: null,
   parish: null,
   constituency: null,
+  allConstituencyIds: null,
   coordinates: null,
   geojson: null,
   geojsonLoading: true,
@@ -37,6 +38,8 @@ function reducer(state, action) {
         ...state,
         step: 'results',
         constituency: action.payload.constituency,
+        allConstituencyIds: action.payload.allConstituencyIds
+          || [action.payload.constituency?.constituency_id].filter(Boolean),
         coordinates: action.payload.coordinates,
         officials: action.payload.officials,
         country: action.payload.country,

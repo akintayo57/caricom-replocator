@@ -9,3 +9,11 @@ export function findConstituency(lat, lng, geojson) {
   }
   return null;
 }
+
+// Returns ALL matching polygons for a point (e.g. municipality + enclosing region)
+export function findAllConstituencies(lat, lng, geojson) {
+  const pt = turfPoint([lng, lat]);
+  return geojson.features
+    .filter(f => booleanPointInPolygon(pt, f))
+    .map(f => f.properties);
+}

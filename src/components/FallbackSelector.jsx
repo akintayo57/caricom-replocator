@@ -9,6 +9,7 @@ import {
   getCountryMeta,
 } from '../utils/officials';
 import { getOfficialsForConstituency } from '../utils/officials';
+import { findAllConstituencies } from '../utils/pip';
 import PinDropMap from './PinDropMap';
 
 export default function FallbackSelector() {
@@ -54,6 +55,10 @@ export default function FallbackSelector() {
     const avgLng = coords.reduce((s, c) => s + c[0], 0) / coords.length;
 
     const officials = getOfficialsForConstituency(id, country);
+    const allMatches = findAllConstituencies(avgLat, avgLng, state.geojson);
+    const allConstituencyIds = allMatches.map(m => m.constituency_id);
+    if (!allConstituencyIds.includes(id)) allConstituencyIds.unshift(id);
+
     dispatch({
       type: 'SHOW_RESULTS',
       payload: {
@@ -61,6 +66,7 @@ export default function FallbackSelector() {
         coordinates: { lat: avgLat, lng: avgLng },
         officials,
         country,
+        allConstituencyIds,
       },
     });
   }

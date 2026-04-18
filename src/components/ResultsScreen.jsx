@@ -6,7 +6,7 @@ import RepStackTabs from './RepStackTabs';
 
 export default function ResultsScreen() {
   const { state } = useApp();
-  const { constituency, officials, country } = state;
+  const { constituency, allConstituencyIds, officials, country } = state;
   const hierarchy = getCountryHierarchy(country);
 
   return (
@@ -37,7 +37,7 @@ export default function ResultsScreen() {
       <RepStackTabs
         officials={officials}
         country={country}
-        constituencyId={constituency?.constituency_id}
+        constituencyId={allConstituencyIds || [constituency?.constituency_id].filter(Boolean)}
         hierarchy={hierarchy}
       />
     </div>
