@@ -2450,6 +2450,196 @@
           [-76.885, 18.010]
         ]]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region1",
+        "name": "Region 1 (Barima-Waini)",
+        "country": "Guyana",
+        "parish": "Region 1 (Barima-Waini)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.0, 7.0],
+          [-59.5, 7.0],
+          [-59.5, 8.6],
+          [-61.0, 8.6],
+          [-61.0, 7.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region2",
+        "name": "Region 2 (Pomeroon-Supenaam)",
+        "country": "Guyana",
+        "parish": "Region 2 (Pomeroon-Supenaam)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-59.5, 6.0],
+          [-58.6, 6.0],
+          [-58.6, 7.8],
+          [-59.5, 7.8],
+          [-59.5, 6.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region3",
+        "name": "Region 3 (Essequibo Islands-West Demerara)",
+        "country": "Guyana",
+        "parish": "Region 3 (Essequibo Islands-West Demerara)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-58.6, 6.2],
+          [-58.17, 6.2],
+          [-58.17, 7.5],
+          [-58.6, 7.5],
+          [-58.6, 6.2]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region4",
+        "name": "Region 4 (Demerara-Mahaica)",
+        "country": "Guyana",
+        "parish": "Region 4 (Demerara-Mahaica)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-58.17, 6.0],
+          [-57.9, 6.0],
+          [-57.9, 7.0],
+          [-58.17, 7.0],
+          [-58.17, 6.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region5",
+        "name": "Region 5 (Mahaica-Berbice)",
+        "country": "Guyana",
+        "parish": "Region 5 (Mahaica-Berbice)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-57.9, 5.5],
+          [-57.6, 5.5],
+          [-57.6, 6.8],
+          [-57.9, 6.8],
+          [-57.9, 5.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region6",
+        "name": "Region 6 (East Berbice-Corentyne)",
+        "country": "Guyana",
+        "parish": "Region 6 (East Berbice-Corentyne)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-57.6, 1.2],
+          [-56.5, 1.2],
+          [-56.5, 7.0],
+          [-57.6, 7.0],
+          [-57.6, 1.2]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region7",
+        "name": "Region 7 (Cuyuni-Mazaruni)",
+        "country": "Guyana",
+        "parish": "Region 7 (Cuyuni-Mazaruni)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.0, 5.5],
+          [-58.6, 5.5],
+          [-58.6, 7.0],
+          [-61.0, 7.0],
+          [-61.0, 5.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region8",
+        "name": "Region 8 (Potaro-Siparuni)",
+        "country": "Guyana",
+        "parish": "Region 8 (Potaro-Siparuni)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-60.5, 4.0],
+          [-58.5, 4.0],
+          [-58.5, 5.5],
+          [-60.5, 5.5],
+          [-60.5, 4.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region9",
+        "name": "Region 9 (Upper Takutu-Upper Essequibo)",
+        "country": "Guyana",
+        "parish": "Region 9 (Upper Takutu-Upper Essequibo)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-61.0, 1.2],
+          [-58.0, 1.2],
+          [-58.0, 4.0],
+          [-61.0, 4.0],
+          [-61.0, 1.2]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency_id": "gy-region10",
+        "name": "Region 10 (Upper Demerara-Berbice)",
+        "country": "Guyana",
+        "parish": "Region 10 (Upper Demerara-Berbice)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-59.5, 4.0],
+          [-57.5, 4.0],
+          [-57.5, 6.2],
+          [-59.5, 6.2],
+          [-59.5, 4.0]
+        ]]
+      }
     }
   ]
 }
