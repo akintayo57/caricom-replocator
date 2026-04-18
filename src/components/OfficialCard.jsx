@@ -1,8 +1,11 @@
-import { Phone, Mail, Briefcase, User } from 'lucide-react';
+import { useState } from 'react';
+import { Phone, Mail, Briefcase, ChevronDown, ChevronUp } from 'lucide-react';
 import PartyBadge from './PartyBadge';
 import TypeBadge from './TypeBadge';
 
 export default function OfficialCard({ official }) {
+  const [bioOpen, setBioOpen] = useState(false);
+
   const initials = official.name
     .split(' ')
     .map((n) => n[0])
@@ -12,9 +15,25 @@ export default function OfficialCard({ official }) {
   return (
     <div className="bg-white rounded-xl border border-ocean-100 shadow-sm hover:shadow-md transition-shadow p-4">
       <div className="flex items-start gap-3">
-        <div className="w-11 h-11 rounded-full bg-gradient-to-br from-ocean-200 to-tropic-200 flex items-center justify-center text-ocean-800 font-bold text-sm shrink-0">
+        {/* Avatar — photo if available, initials fallback */}
+        {official.photo ? (
+          <img
+            src={official.photo}
+            alt={official.name}
+            className="w-11 h-11 rounded-full object-cover shrink-0 border border-ocean-100"
+            onError={(e) => {
+              e.currentTarget.style.display = 'none';
+              e.currentTarget.nextSibling.style.display = 'flex';
+            }}
+          />
+        ) : null}
+        <div
+          className="w-11 h-11 rounded-full bg-gradient-to-br from-ocean-200 to-tropic-200 items-center justify-center text-ocean-800 font-bold text-sm shrink-0"
+          style={{ display: official.photo ? 'none' : 'flex' }}
+        >
           {initials}
         </div>
+
         <div className="flex-1 min-w-0">
           <div className="flex items-center flex-wrap gap-1.5 mb-1">
             <h4 className="font-bold text-ocean-950 text-sm">{official.name}</h4>
@@ -32,6 +51,24 @@ export default function OfficialCard({ official }) {
           </div>
         </div>
       </div>
+
+      {/* Bio toggle */}
+      {official.bio && (
+        <div className="mt-3">
+          <button
+            onClick={() => setBioOpen((v) => !v)}
+            className="flex items-center gap-1 text-xs text-ocean-500 hover:text-ocean-700 transition-colors font-medium"
+          >
+            {bioOpen ? <ChevronUp size={13} /> : <ChevronDown size={13} />}
+            {bioOpen ? 'Hide bio' : 'About'}
+          </button>
+          {bioOpen && (
+            <p className="mt-2 text-xs text-ocean-700 leading-relaxed border-t border-ocean-100 pt-2">
+              {official.bio}
+            </p>
+          )}
+        </div>
+      )}
 
       {(official.phone || official.email) && (
         <div className="flex gap-2 mt-3 pt-3 border-t border-ocean-100">
