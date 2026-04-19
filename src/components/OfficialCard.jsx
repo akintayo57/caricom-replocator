@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Phone, Mail, Briefcase, ChevronDown, ChevronUp } from 'lucide-react';
+import { sanitizePhone, sanitizeEmail } from '../utils/security';
 import PartyBadge from './PartyBadge';
 import TypeBadge from './TypeBadge';
 
@@ -74,8 +75,9 @@ export default function OfficialCard({ official }) {
         <div className="flex gap-2 mt-3 pt-3 border-t border-ocean-100">
           {official.phone && (
             <a
-              href={`tel:${official.phone}`}
+              href={`tel:${sanitizePhone(official.phone)}`}
               className="flex items-center gap-1.5 text-xs text-ocean-600 hover:text-ocean-800 transition-colors bg-ocean-50 rounded-lg px-2.5 py-1.5"
+              rel="noreferrer"
             >
               <Phone size={12} />
               Call
@@ -83,8 +85,9 @@ export default function OfficialCard({ official }) {
           )}
           {official.email && (
             <a
-              href={`mailto:${official.email}`}
+              href={`mailto:${sanitizeEmail(official.email)}`}
               className="flex items-center gap-1.5 text-xs text-ocean-600 hover:text-ocean-800 transition-colors bg-ocean-50 rounded-lg px-2.5 py-1.5"
+              rel="noreferrer"
             >
               <Mail size={12} />
               Email

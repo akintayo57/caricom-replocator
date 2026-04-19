@@ -52,9 +52,10 @@ export function applyHierarchyFilter(official, filterConfig, context) {
     case 'tier':
       return official.tier === filterValue;
 
-    case 'roleMatch':
+    case 'roleMatch': {
       const rolesArray = Array.isArray(filterValue) ? filterValue : [filterValue];
       return rolesArray.includes(official.role);
+    }
 
     case 'flag':
       return official[filterValue] === true;
