@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Phone, Mail, Briefcase, ChevronDown, ChevronUp } from 'lucide-react';
+import { Phone, Mail, Briefcase, ChevronDown, ChevronUp, Clock } from 'lucide-react';
 import PartyBadge from './PartyBadge';
 import TypeBadge from './TypeBadge';
 
@@ -49,6 +49,12 @@ export default function OfficialCard({ official }) {
             <PartyBadge party={official.party} />
             <TypeBadge type={official.type} />
           </div>
+          {official.termEnds && (
+            <p className="flex items-center gap-1 mt-1.5 text-[11px] text-ocean-400">
+              <Clock size={10} />
+              Term ends {official.termEnds}
+            </p>
+          )}
         </div>
       </div>
 

@@ -1788,7 +1788,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "isHeadOfGovernment": true
+      "isHeadOfGovernment": true,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-001",
@@ -1804,7 +1805,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-002",
@@ -1820,7 +1822,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-003",
@@ -1836,7 +1839,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-004",
@@ -1852,7 +1856,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-005",
@@ -1868,7 +1873,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-006",
@@ -1884,7 +1890,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-007",
@@ -1900,7 +1907,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-008",
@@ -1916,7 +1924,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-009",
@@ -1932,7 +1941,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-010",
@@ -1948,7 +1958,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-011",
@@ -1964,7 +1975,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-012",
@@ -1980,7 +1992,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-013",
@@ -1996,7 +2009,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-014",
@@ -2012,7 +2026,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-015",
@@ -2028,7 +2043,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-016",
@@ -2044,7 +2060,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-017",
@@ -2060,7 +2077,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-018",
@@ -2076,7 +2094,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-019",
@@ -2092,7 +2111,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-020",
@@ -2108,7 +2128,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-021",
@@ -2124,7 +2145,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-022",
@@ -2140,7 +2162,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-023",
@@ -2156,7 +2179,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-024",
@@ -2172,7 +2196,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mp-025",
@@ -2188,7 +2213,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": null
+      "bio": null,
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-001",
@@ -2204,7 +2230,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Brentnol Ashley serves as RDC Chairperson for Region 1 (Barima-Waini), elected via the PPP/C slate at the November 2025 General Elections. He oversees Guyana's largest and most remote administrative region, home to diverse Amerindian communities along the Venezuelan border."
+      "bio": "Brentnol Ashley serves as RDC Chairperson for Region 1 (Barima-Waini), elected via the PPP/C slate at the November 2025 General Elections. He oversees Guyana's largest and most remote administrative region, home to diverse Amerindian communities along the Venezuelan border.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-002",
@@ -2220,7 +2247,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Devin Mohan serves as RDC Chairperson for Region 2 (Pomeroon-Supenaam), elected via the PPP/C slate at the November 2025 General Elections. He also holds the position of Mayor of Anna Regina, making him a key figure in both municipal and regional governance on the Essequibo coast."
+      "bio": "Devin Mohan serves as RDC Chairperson for Region 2 (Pomeroon-Supenaam), elected via the PPP/C slate at the November 2025 General Elections. He also holds the position of Mayor of Anna Regina, making him a key figure in both municipal and regional governance on the Essequibo coast.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-003",
@@ -2236,7 +2264,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Sheik Mohamed Inshan Ayube serves as RDC Chairperson for Region 3 (Essequibo Islands-West Demerara), elected via the PPP/C slate at the November 2025 General Elections. He oversees the densely populated region west of the Demerara River, including the Essequibo Islands."
+      "bio": "Sheik Mohamed Inshan Ayube serves as RDC Chairperson for Region 3 (Essequibo Islands-West Demerara), elected via the PPP/C slate at the November 2025 General Elections. He oversees the densely populated region west of the Demerara River, including the Essequibo Islands.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-004",
@@ -2252,7 +2281,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Clemsford Belgrave serves as RDC Chairperson for Region 4 (Demerara-Mahaica), Guyana's most populous region. Elected via the PPP/C slate at the November 2025 General Elections, he oversees the region encompassing Georgetown and surrounding communities."
+      "bio": "Clemsford Belgrave serves as RDC Chairperson for Region 4 (Demerara-Mahaica), Guyana's most populous region. Elected via the PPP/C slate at the November 2025 General Elections, he oversees the region encompassing Georgetown and surrounding communities.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-005",
@@ -2268,7 +2298,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Recardo Phillips serves as RDC Chairperson for Region 5 (Mahaica-Berbice), elected via the PPP/C slate at the November 2025 General Elections. He oversees the agricultural heartland between the Mahaica and Berbice rivers, known for rice and sugarcane production."
+      "bio": "Recardo Phillips serves as RDC Chairperson for Region 5 (Mahaica-Berbice), elected via the PPP/C slate at the November 2025 General Elections. He oversees the agricultural heartland between the Mahaica and Berbice rivers, known for rice and sugarcane production.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-006",
@@ -2284,7 +2315,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Junior Basant serves as RDC Chairperson for Region 6 (East Berbice-Corentyne), elected via the PPP/C slate at the November 2025 General Elections. He oversees one of Guyana's most economically significant regions, stretching from New Amsterdam to the Corentyne coast."
+      "bio": "Junior Basant serves as RDC Chairperson for Region 6 (East Berbice-Corentyne), elected via the PPP/C slate at the November 2025 General Elections. He oversees one of Guyana's most economically significant regions, stretching from New Amsterdam to the Corentyne coast.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-007",
@@ -2300,7 +2332,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "June Shurland-Gittens serves as RDC Chairperson for Region 7 (Cuyuni-Mazaruni). She oversees the vast interior region renowned for gold and diamond mining, bordered by Venezuela to the north and west, and home to a large Amerindian population."
+      "bio": "June Shurland-Gittens serves as RDC Chairperson for Region 7 (Cuyuni-Mazaruni). She oversees the vast interior region renowned for gold and diamond mining, bordered by Venezuela to the north and west, and home to a large Amerindian population.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-008",
@@ -2316,7 +2349,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Tarcellia John serves as RDC Chairperson for Region 8 (Potaro-Siparuni), elected via the PPP/C slate at the November 2025 General Elections. She oversees the region home to Kaieteur Falls, one of the world's most powerful waterfalls, and the gold-mining town of Mahdia."
+      "bio": "Tarcellia John serves as RDC Chairperson for Region 8 (Potaro-Siparuni), elected via the PPP/C slate at the November 2025 General Elections. She oversees the region home to Kaieteur Falls, one of the world's most powerful waterfalls, and the gold-mining town of Mahdia.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-rdc-009",
@@ -2332,7 +2366,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Vania Albert serves as RDC Chairperson for Region 9 (Upper Takutu-Upper Essequibo), elected via the PPP/C slate at the November 2025 General Elections. She oversees the sprawling Rupununi savanna region bordering Brazil, home to the Makushi and Wapishana peoples."
+      "bio": "Vania Albert serves as RDC Chairperson for Region 9 (Upper Takutu-Upper Essequibo), elected via the PPP/C slate at the November 2025 General Elections. She oversees the sprawling Rupununi savanna region bordering Brazil, home to the Makushi and Wapishana peoples.",
+      "termEnds": "November 2030"
     },
     {
       "id": "gy-mayor-001",
@@ -2348,11 +2383,12 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Alfred Mentore was elected Mayor of Georgetown in June 2023, representing the APNU coalition. He serves as the chief executive of Guyana's capital city and largest urban centre, overseeing municipal services for hundreds of thousands of residents."
+      "bio": "Alfred Mentore was elected Mayor of Georgetown in June 2023, representing the APNU coalition. He serves as the chief executive of Guyana's capital city and largest urban centre, overseeing municipal services for hundreds of thousands of residents.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-002",
-      "name": "Sharma Solomon",
+      "name": "Dominique Blair",
       "role": "Mayor",
       "tier": "local",
       "constituency_id": "gy-municipality-linden",
@@ -2360,11 +2396,12 @@
       "partyFull": "A Partnership for National Unity",
       "type": "elected",
       "cabinetPosition": null,
-      "photo": "https://i0.wp.com/kaieteurnewsonline.com/wp-content/uploads/2025/11/solomon.jpg?resize=300%2C423&ssl=1",
+      "photo": null,
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Sharma Solomon was elected Mayor of Linden in June 2023, representing the APNU coalition. She leads the municipality of Linden, Guyana's second-largest town and the historic centre of the country's bauxite mining industry."
+      "bio": "Dominique Blair became Mayor of Linden in late 2025 after the previous mayor, Sharma Solomon, resigned to take up his seat in the National Assembly following the September 2025 general election. Blair, who had served as Deputy Mayor, automatically succeeded to the mayoralty under the Municipal and District Councils Act. He represents the APNU coalition.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-003",
@@ -2380,7 +2417,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Wainwright McIntosh was elected Mayor of New Amsterdam in June 2023, representing the APNU coalition. He oversees the historic town on the eastern bank of the Berbice River, which serves as the administrative capital of Region 6."
+      "bio": "Wainwright McIntosh was elected Mayor of New Amsterdam in June 2023, representing the APNU coalition. He oversees the historic town on the eastern bank of the Berbice River, which serves as the administrative capital of Region 6.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-004",
@@ -2396,7 +2434,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Devin Mohan was elected Mayor of Anna Regina in June 2023, representing the PPP/C. He also serves as RDC Chairperson for Region 2 (Pomeroon-Supenaam), making him a pivotal figure in local governance on the Essequibo coast."
+      "bio": "Devin Mohan was elected Mayor of Anna Regina in June 2023, representing the PPP/C. He also serves as RDC Chairperson for Region 2 (Pomeroon-Supenaam), making him a pivotal figure in local governance on the Essequibo coast.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-005",
@@ -2412,7 +2451,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Anthony Murray was elected Mayor of Bartica in June 2023, representing the PPP/C. He leads the strategic gateway town at the confluence of the Essequibo, Mazaruni, and Cuyuni rivers — the main supply hub for Guyana's gold and diamond mining interior."
+      "bio": "Anthony Murray was elected Mayor of Bartica in June 2023, representing the PPP/C. He leads the strategic gateway town at the confluence of the Essequibo, Mazaruni, and Cuyuni rivers — the main supply hub for Guyana's gold and diamond mining interior.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-006",
@@ -2428,7 +2468,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Dave Budhu was elected Mayor of Rose Hall in June 2023, representing the PPP/C. He serves as the chief executive of Rose Hall Town in the Corentyne, one of Guyana's growing municipalities in the sugar-producing east of Berbice."
+      "bio": "Dave Budhu was elected Mayor of Rose Hall in June 2023, representing the PPP/C. He serves as the chief executive of Rose Hall Town in the Corentyne, one of Guyana's growing municipalities in the sugar-producing east of Berbice.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-007",
@@ -2444,7 +2485,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Imran Amin was elected Mayor of Corriverton in June 2023, representing the PPP/C. He leads the easternmost municipality in Guyana, situated at the mouth of the Corentyne River directly opposite Nieuw Nickerie, Suriname."
+      "bio": "Imran Amin was elected Mayor of Corriverton in June 2023, representing the PPP/C. He leads the easternmost municipality in Guyana, situated at the mouth of the Corentyne River directly opposite Nieuw Nickerie, Suriname.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-008",
@@ -2460,7 +2502,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Trevi Leung was elected Mayor of Mabaruma in June 2023, representing the PPP/C. She oversees the remote municipality in Region 1 (Barima-Waini), a hub for Amerindian communities in Guyana's northwestern corner near the Venezuelan border."
+      "bio": "Trevi Leung was elected Mayor of Mabaruma in June 2023, representing the PPP/C. She oversees the remote municipality in Region 1 (Barima-Waini), a hub for Amerindian communities in Guyana's northwestern corner near the Venezuelan border.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-009",
@@ -2476,7 +2519,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "John Macedo was elected Mayor of Lethem in June 2023, representing the PPP/C. He leads the fast-growing border town on the Brazil-Guyana frontier, a key trade hub and the main entry point to the Rupununi savanna region."
+      "bio": "John Macedo was elected Mayor of Lethem in June 2023, representing the PPP/C. He leads the fast-growing border town on the Brazil-Guyana frontier, a key trade hub and the main entry point to the Rupununi savanna region.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-mayor-010",
@@ -2492,7 +2536,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Eslyn Gail Ramascindo-Hussain was elected Mayor of Mahdia in June 2023, representing the PPP/C. She leads the gold-mining municipality deep in the Potaro-Siparuni region, which has seen significant growth alongside Guyana's expanding mineral sector."
+      "bio": "Eslyn Gail Ramascindo-Hussain was elected Mayor of Mahdia in June 2023, representing the PPP/C. She leads the gold-mining municipality deep in the Potaro-Siparuni region, which has seen significant growth alongside Guyana's expanding mineral sector.",
+      "termEnds": "June 2026"
     },
     {
       "id": "gy-toshao-001",
@@ -2508,7 +2553,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Derrick John is the elected Toshao of Moraikobai, an Amerindian village in Region 5, and serves as Chairperson of the National Toshaos Council (NTC). Re-elected in the 2024 village elections, he is Guyana's leading voice for Amerindian rights, land titling, and indigenous governance at the national level."
+      "bio": "Derrick John is the elected Toshao of Moraikobai, an Amerindian village in Region 5, and serves as Chairperson of the National Toshaos Council (NTC). Re-elected in the 2024 village elections, he is Guyana's leading voice for Amerindian rights, land titling, and indigenous governance at the national level.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-002",
@@ -2524,7 +2570,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Laurence Vandenburg is the elected Toshao of Orealla, an Arawak Amerindian village on the Corentyne River in Region 6. Elected in the 2024 village elections, he oversees community governance and advocates for land rights for Orealla's residents."
+      "bio": "Laurence Vandenburg is the elected Toshao of Orealla, an Arawak Amerindian village on the Corentyne River in Region 6. Elected in the 2024 village elections, he oversees community governance and advocates for land rights for Orealla's residents.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-003",
@@ -2540,7 +2587,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Lee Williams is the elected Toshao of Paruima, an Akawaio Amerindian village in the Cuyuni-Mazaruni region (Region 7). Elected in the 2024 village elections, he represents his community in relations with regional and national government bodies."
+      "bio": "Lee Williams is the elected Toshao of Paruima, an Akawaio Amerindian village in the Cuyuni-Mazaruni region (Region 7). Elected in the 2024 village elections, he represents his community in relations with regional and national government bodies.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-004",
@@ -2556,7 +2604,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Murphy Gomez is the elected Toshao of Batavia, an Amerindian village in the Pomeroon-Supenaam region (Region 2). Elected in the 2024 village elections, he leads community governance along the Pomeroon River."
+      "bio": "Murphy Gomez is the elected Toshao of Batavia, an Amerindian village in the Pomeroon-Supenaam region (Region 2). Elected in the 2024 village elections, he leads community governance along the Pomeroon River.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-005",
@@ -2572,7 +2621,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Raul Hendrick is the elected Toshao of Santa Rosa, the largest Arawak Amerindian community in Region 1 (Barima-Waini). Elected in the 2024 village elections, he oversees one of Guyana's oldest and most historically significant Amerindian settlements."
+      "bio": "Raul Hendrick is the elected Toshao of Santa Rosa, the largest Arawak Amerindian community in Region 1 (Barima-Waini). Elected in the 2024 village elections, he oversees one of Guyana's oldest and most historically significant Amerindian settlements.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-006",
@@ -2588,7 +2638,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Brian Ambrose is the elected Toshao of Potarinau, a Wapishana Amerindian village in the southern Rupununi (Region 9). Elected in the 2024 village elections, he oversees community governance and the management of traditional lands in the savanna region."
+      "bio": "Brian Ambrose is the elected Toshao of Potarinau, a Wapishana Amerindian village in the southern Rupununi (Region 9). Elected in the 2024 village elections, he oversees community governance and the management of traditional lands in the savanna region.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-007",
@@ -2604,7 +2655,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Micah Davis is the elected Toshao of Toka, a Wapishana Amerindian village in the southern Rupununi (Region 9). Elected in the 2024 village elections, he leads local governance for the village and its surrounding traditional lands."
+      "bio": "Micah Davis is the elected Toshao of Toka, a Wapishana Amerindian village in the southern Rupununi (Region 9). Elected in the 2024 village elections, he leads local governance for the village and its surrounding traditional lands.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-008",
@@ -2620,7 +2672,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Archer Moses is the elected Toshao of Katoka, an Amerindian village in the Rupununi (Region 9). Elected in the 2024 village elections, he represents his community in the stewardship of traditional lands and relations with regional government."
+      "bio": "Archer Moses is the elected Toshao of Katoka, an Amerindian village in the Rupununi (Region 9). Elected in the 2024 village elections, he represents his community in the stewardship of traditional lands and relations with regional government.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-009",
@@ -2636,7 +2689,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Randolph Francis is the elected Toshao of Yurongparu, an Akawaio Amerindian village in the Cuyuni-Mazaruni region (Region 7). Elected in the 2024 village elections, he oversees community governance for his village in the mineral-rich interior."
+      "bio": "Randolph Francis is the elected Toshao of Yurongparu, an Akawaio Amerindian village in the Cuyuni-Mazaruni region (Region 7). Elected in the 2024 village elections, he oversees community governance for his village in the mineral-rich interior.",
+      "termEnds": "May 2027"
     },
     {
       "id": "gy-toshao-010",
@@ -2652,7 +2706,8 @@
       "phone": null,
       "email": null,
       "country": "Guyana",
-      "bio": "Clarence Rudolph is the elected Toshao of Parabara, a Macushi Amerindian village in the North Rupununi (Region 9). Elected in the 2024 village elections, he represents his community in the management of traditional lands in one of Guyana's most ecologically rich savannas."
+      "bio": "Clarence Rudolph is the elected Toshao of Parabara, a Macushi Amerindian village in the North Rupununi (Region 9). Elected in the 2024 village elections, he represents his community in the management of traditional lands in one of Guyana's most ecologically rich savannas.",
+      "termEnds": "May 2027"
     }
   ]
 }
