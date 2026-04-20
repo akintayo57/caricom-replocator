@@ -864,12 +864,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Local Government and Rural Development",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-002",
@@ -880,12 +881,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Labour and Social Security",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-003",
@@ -901,7 +903,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-004",
@@ -912,16 +915,17 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, National Security and Peace",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-005",
-      "name": "George Hylton",
+      "name": "Anthony Hylton",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-standrew-western",
@@ -933,7 +937,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-006",
@@ -944,17 +949,18 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": "Prime Minister",
+      "cabinetPosition": "Prime Minister; Minister of Defence and Economic Growth",
       "photo": null,
       "phone": null,
       "email": null,
       "isHeadOfGovernment": true,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-007",
-      "name": "Peter Phillips",
+      "name": "Dennis Gordon",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-standrew-east-central",
@@ -966,11 +972,12 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-008",
-      "name": "Angela Brown Burke",
+      "name": "Angela Brown-Burke",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-standrew-south-western",
@@ -982,7 +989,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-009",
@@ -993,12 +1001,13 @@
       "party": "PNP",
       "partyFull": "People's National Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Leader of the Opposition",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-010",
@@ -1014,7 +1023,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-011",
@@ -1025,12 +1035,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Finance and the Public Service",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-012",
@@ -1041,32 +1052,34 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Justice",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-013",
-      "name": "Karl Samuda",
+      "name": "Delano Seiveright",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-standrew-north-central",
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Industry, Investment and Commerce",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-014",
-      "name": "Nigel Clarke",
+      "name": "Duane Smith",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-standrew-north-western",
@@ -1078,7 +1091,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-015",
@@ -1089,12 +1103,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Speaker of the House of Representatives",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-016",
@@ -1110,39 +1125,42 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-017",
-      "name": "Michelle Charles-Freeman",
+      "name": "Yvonne Shaw",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stthomas-eastern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-018",
-      "name": "Ann-Marie Vaz",
+      "name": "Isat Buchanan",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-portland-eastern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-019",
@@ -1153,32 +1171,34 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Transport, Telecommunications and Energy",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-020",
-      "name": "Norman Dunn",
+      "name": "Christopher Brown",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stmary-south-eastern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-021",
-      "name": "Morais Guy",
+      "name": "Omar Newell",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stmary-central",
@@ -1190,7 +1210,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-022",
@@ -1201,16 +1222,17 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister without Portfolio, Economic Growth and Infrastructure Development (Land Titling)",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-023",
-      "name": "Lisa Hanna",
+      "name": "Kenneth Russell",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stann-south-eastern",
@@ -1222,23 +1244,25 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-024",
-      "name": "Marsha Smith",
+      "name": "Matthew Samuda",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stann-north-eastern",
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Water, Environment and Climate Change",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-025",
@@ -1249,12 +1273,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Health and Wellness",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-026",
@@ -1265,12 +1290,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Finance and the Public Service",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-027",
@@ -1281,12 +1307,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Tourism",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-028",
@@ -1297,12 +1324,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Justice and Constitutional Affairs",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-029",
@@ -1313,12 +1341,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Tourism",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-030",
@@ -1329,12 +1358,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Deputy Prime Minister; Minister of National Security and Peace",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-031",
@@ -1345,12 +1375,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Deputy Speaker of the House",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-032",
@@ -1366,107 +1397,114 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-033",
-      "name": "Homer Davis",
+      "name": "Nekeisha Burchell",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stjames-southern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-034",
-      "name": "Dave Brown",
+      "name": "Andrea Purkiss",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-hanover-eastern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-035",
-      "name": "Tamika Davis",
+      "name": "Heatha Miller-Bennett",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-hanover-western",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-036",
-      "name": "Morland Wilson",
+      "name": "Ian Hayles",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-westmoreland-western",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-037",
-      "name": "George Wright",
+      "name": "Dwayne Vaz",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-westmoreland-central",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-038",
-      "name": "Daniel Lawrence",
+      "name": "Dayton Campbell",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-westmoreland-eastern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-039",
-      "name": "William Hutchinson",
+      "name": "Andrew Morris",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stelizabeth-north-western",
@@ -1478,23 +1516,25 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-040",
-      "name": "Delroy Slowley",
+      "name": "Zuleika Jess",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stelizabeth-north-eastern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-041",
@@ -1505,12 +1545,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Agriculture, Fisheries and Mining",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-042",
@@ -1521,28 +1562,30 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Agriculture, Fisheries and Mining",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-043",
-      "name": "Robert Chin",
+      "name": "Peter Bunting",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-manchester-southern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-044",
@@ -1553,12 +1596,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Education, Skills, Youth and Information",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-045",
@@ -1574,55 +1618,59 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-046",
-      "name": "Audley Shaw",
+      "name": "Audrey Marks",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-manchester-north-eastern",
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister without Portfolio, Office of the Prime Minister (Efficiency, Innovation and Digital Transformation)",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-047",
-      "name": "Phillip Henriquez",
+      "name": "Richard Azan",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-clarendon-north-western",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-048",
-      "name": "Dwight Sibblies",
+      "name": "Wavell Hinds",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-clarendon-northern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-049",
@@ -1633,28 +1681,30 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister without Portfolio, Economic Growth and Infrastructure Development (Works)",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-050",
-      "name": "Michael Henry",
+      "name": "Delroy Williams",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-clarendon-central",
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Local Government and Community Development",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-051",
@@ -1670,27 +1720,29 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-052",
-      "name": "Pearnel Charles Jr",
+      "name": "Pearnel Charles Jr.",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-clarendon-south-eastern",
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Labour and Social Security",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-053",
-      "name": "Hugh Graham",
+      "name": "Damion Crawford",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stcatherine-north-western",
@@ -1702,7 +1754,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-054",
@@ -1718,7 +1771,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-055",
@@ -1734,7 +1788,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-056",
@@ -1745,32 +1800,34 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Culture, Gender, Entertainment and Sport",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-057",
-      "name": "Robert Miller",
+      "name": "Alfred Dawes",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stcatherine-south-eastern",
-      "party": "JLP",
-      "partyFull": "Jamaica Labour Party",
+      "party": "PNP",
+      "partyFull": "People's National Party",
       "type": "elected",
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-058",
-      "name": "Natalie Neita-Headley",
+      "name": "Natalie Neita-Garvey",
       "role": "Member of Parliament",
       "tier": "national",
       "constituency_id": "jm-stcatherine-north-central",
@@ -1782,7 +1839,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-059",
@@ -1793,12 +1851,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister of Health and Wellness",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-060",
@@ -1809,12 +1868,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Culture, Gender, Entertainment and Sport",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-061",
@@ -1830,7 +1890,8 @@
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-062",
@@ -1841,12 +1902,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "Minister without Portfolio, Office of the Prime Minister (Science, Technology and Special Projects)",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-mp-063",
@@ -1857,12 +1919,13 @@
       "party": "JLP",
       "partyFull": "Jamaica Labour Party",
       "type": "elected",
-      "cabinetPosition": null,
+      "cabinetPosition": "State Minister, Foreign Affairs and Foreign Trade",
       "photo": null,
       "phone": null,
       "email": null,
       "country": "Jamaica",
-      "termEnds": "September 2030"
+      "termEnds": "September 2030",
+      "bio": null
     },
     {
       "id": "jm-hos-001",
