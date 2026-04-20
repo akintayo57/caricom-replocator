@@ -52,7 +52,8 @@
           ],
           "description": "Constitutional head of state"
         }
-      ]
+      ],
+      "subdivisionLabel": "Parish"
     },
     "Jamaica": {
       "center": [
@@ -113,7 +114,8 @@
           ],
           "description": "Constitutional head of state"
         }
-      ]
+      ],
+      "subdivisionLabel": "Parish"
     },
     "Dominica": {
       "center": [
@@ -170,7 +172,8 @@
           ],
           "description": "Constitutional head of state"
         }
-      ]
+      ],
+      "subdivisionLabel": "Parish"
     },
     "Guyana": {
       "center": [
@@ -237,7 +240,8 @@
           ],
           "description": "Constitutional head of state"
         }
-      ]
+      ],
+      "subdivisionLabel": "Region"
     }
   },
   "officials": [
@@ -254,7 +258,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-002",
@@ -269,7 +274,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-003",
@@ -284,7 +290,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-004",
@@ -299,7 +306,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-005",
@@ -314,7 +322,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-006",
@@ -329,7 +338,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-007",
@@ -344,7 +354,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-008",
@@ -359,7 +370,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-009",
@@ -374,7 +386,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-010",
@@ -389,7 +402,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-011",
@@ -404,7 +418,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-012",
@@ -419,7 +434,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-013",
@@ -434,7 +450,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-014",
@@ -450,7 +467,8 @@
       "phone": "+1-473-440-2255",
       "email": "pm@gov.gd",
       "isHeadOfGovernment": true,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-mp-015",
@@ -465,7 +483,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Grenada"
+      "country": "Grenada",
+      "termEnds": "June 2027"
     },
     {
       "id": "gd-hos-001",
@@ -480,7 +499,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-473-440-3500",
-      "email": "gg@grenada.gov.gd"
+      "email": "gg@grenada.gov.gd",
+      "termEnds": null
     },
     {
       "id": "dm-mp-001",
@@ -495,7 +515,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-002",
@@ -510,7 +531,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-003",
@@ -525,7 +547,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-004",
@@ -540,7 +563,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-005",
@@ -555,7 +579,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-006",
@@ -570,7 +595,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-007",
@@ -585,7 +611,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-008",
@@ -600,7 +627,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-009",
@@ -615,7 +643,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-010",
@@ -630,7 +659,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-011",
@@ -645,7 +675,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-012",
@@ -660,7 +691,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-013",
@@ -675,7 +707,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-014",
@@ -690,7 +723,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-015",
@@ -705,7 +739,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-016",
@@ -720,7 +755,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-017",
@@ -735,7 +771,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-018",
@@ -750,7 +787,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-019",
@@ -765,7 +803,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-020",
@@ -780,7 +819,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-mp-021",
@@ -796,7 +836,8 @@
       "phone": "+1-767-266-3002",
       "email": "pm@dominica.gov.dm",
       "isHeadOfGovernment": true,
-      "country": "Dominica"
+      "country": "Dominica",
+      "termEnds": "December 2027"
     },
     {
       "id": "dm-hos-001",
@@ -811,7 +852,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": "+1-767-266-3600",
-      "email": "president@dominica.gov.dm"
+      "email": "president@dominica.gov.dm",
+      "termEnds": "October 2028"
     },
     {
       "id": "jm-mp-001",
@@ -826,7 +868,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-002",
@@ -841,7 +884,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-003",
@@ -856,7 +900,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-004",
@@ -871,7 +916,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-005",
@@ -886,7 +932,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-006",
@@ -902,7 +949,8 @@
       "phone": null,
       "email": null,
       "isHeadOfGovernment": true,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-007",
@@ -917,7 +965,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-008",
@@ -932,7 +981,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-009",
@@ -947,7 +997,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-010",
@@ -962,7 +1013,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-011",
@@ -977,7 +1029,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-012",
@@ -992,7 +1045,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-013",
@@ -1007,7 +1061,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-014",
@@ -1022,7 +1077,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-015",
@@ -1037,7 +1093,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-016",
@@ -1052,7 +1109,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-017",
@@ -1067,7 +1125,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-018",
@@ -1082,7 +1141,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-019",
@@ -1097,7 +1157,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-020",
@@ -1112,7 +1173,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-021",
@@ -1127,7 +1189,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-022",
@@ -1142,7 +1205,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-023",
@@ -1157,7 +1221,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-024",
@@ -1172,7 +1237,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-025",
@@ -1187,7 +1253,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-026",
@@ -1202,7 +1269,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-027",
@@ -1217,7 +1285,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-028",
@@ -1232,7 +1301,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-029",
@@ -1247,7 +1317,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-030",
@@ -1262,7 +1333,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-031",
@@ -1277,7 +1349,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-032",
@@ -1292,7 +1365,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-033",
@@ -1307,7 +1381,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-034",
@@ -1322,7 +1397,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-035",
@@ -1337,7 +1413,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-036",
@@ -1352,7 +1429,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-037",
@@ -1367,7 +1445,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-038",
@@ -1382,7 +1461,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-039",
@@ -1397,7 +1477,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-040",
@@ -1412,7 +1493,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-041",
@@ -1427,7 +1509,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-042",
@@ -1442,7 +1525,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-043",
@@ -1457,7 +1541,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-044",
@@ -1472,7 +1557,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-045",
@@ -1487,7 +1573,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-046",
@@ -1502,7 +1589,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-047",
@@ -1517,7 +1605,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-048",
@@ -1532,7 +1621,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-049",
@@ -1547,7 +1637,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-050",
@@ -1562,7 +1653,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-051",
@@ -1577,7 +1669,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-052",
@@ -1592,7 +1685,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-053",
@@ -1607,7 +1701,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-054",
@@ -1622,7 +1717,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-055",
@@ -1637,7 +1733,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-056",
@@ -1652,7 +1749,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-057",
@@ -1667,7 +1765,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-058",
@@ -1682,7 +1781,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-059",
@@ -1697,7 +1797,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-060",
@@ -1712,7 +1813,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-061",
@@ -1727,7 +1829,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-062",
@@ -1742,7 +1845,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-mp-063",
@@ -1757,7 +1861,8 @@
       "photo": null,
       "phone": null,
       "email": null,
-      "country": "Jamaica"
+      "country": "Jamaica",
+      "termEnds": "September 2030"
     },
     {
       "id": "jm-hos-001",
@@ -1772,7 +1877,8 @@
       "cabinetPosition": null,
       "photo": null,
       "phone": null,
-      "email": null
+      "email": null,
+      "termEnds": null
     },
     {
       "id": "gy-hos-001",

@@ -23,6 +23,8 @@ export default function FallbackSelector() {
   const [addressError, setAddressError] = useState('');
 
   const countries = getCountries();
+  const countryMeta = country ? getCountryMeta(country) : null;
+  const subdivisionLabel = countryMeta?.subdivisionLabel || 'Parish';
   const parishes = country ? getParishesForCountry(country) : [];
   const constituencies = parish && country
     ? getConstituenciesForParish(parish, country, state.geojson)
@@ -113,7 +115,7 @@ export default function FallbackSelector() {
         {country && (
           <div className="relative">
             <select value={parish} onChange={handleParishChange} className={selectClass}>
-              <option value="">Select Parish</option>
+              <option value="">Select {subdivisionLabel}</option>
               {parishes.map((p) => (
                 <option key={p} value={p}>{p}</option>
               ))}
