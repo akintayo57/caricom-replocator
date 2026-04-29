@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Phone, Mail, Briefcase, ChevronDown, ChevronUp, Clock } from 'lucide-react';
 import PartyBadge from './PartyBadge';
 import TypeBadge from './TypeBadge';
+import { sanitizePhone, sanitizeEmail } from '../utils/security';
 
 export default function OfficialCard({ official }) {
   const [bioOpen, setBioOpen] = useState(false);
@@ -80,7 +81,7 @@ export default function OfficialCard({ official }) {
         <div className="flex gap-2 mt-3 pt-3 border-t border-ocean-100">
           {official.phone && (
             <a
-              href={`tel:${official.phone}`}
+              href={`tel:${sanitizePhone(official.phone)}`}
               className="flex items-center gap-1.5 text-xs text-ocean-600 hover:text-ocean-800 transition-colors bg-ocean-50 rounded-lg px-2.5 py-1.5"
             >
               <Phone size={12} />
@@ -89,7 +90,7 @@ export default function OfficialCard({ official }) {
           )}
           {official.email && (
             <a
-              href={`mailto:${official.email}`}
+              href={`mailto:${sanitizeEmail(official.email)}`}
               className="flex items-center gap-1.5 text-xs text-ocean-600 hover:text-ocean-800 transition-colors bg-ocean-50 rounded-lg px-2.5 py-1.5"
             >
               <Mail size={12} />
